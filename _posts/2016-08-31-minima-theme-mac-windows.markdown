@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mac与Windows上的Ruby Gem位置"
-date:   2016-08-31 15:48:52 +0800
+date:   2016-08-31 20:41:52 +0800
 categories: play
 ---
 公司的Windows上折腾了几个小时的Ruby和Jekyll，  
