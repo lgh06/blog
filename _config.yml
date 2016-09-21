@@ -26,6 +26,11 @@ github_username:  lgh06
 markdown: kramdown
 theme: minima
 
+paginate: 5
+paginate_path: "/page/:num/"
+
 port: 12000
 
 highlighter: pygments
+
+gems: ["jekyll-paginate"]

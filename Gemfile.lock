@@ -129,6 +129,7 @@ GEM
       ethon (>= 0.8.0)
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
+    wdm (0.1.1)
 
 PLATFORMS
   ruby
@@ -136,7 +137,9 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-paginate
   minima
+  wdm (~> 0.1.0)
 
 RUBY VERSION
    ruby 2.3.0p0

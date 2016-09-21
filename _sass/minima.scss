@@ -41,3 +41,13 @@ $on-laptop:        800px !default;
   "minima/layout",
   "minima/syntax-highlighting"
 ;
+.pagination{
+  font-size:60%;
+  margin-top:10%;
+}
+.l-total-page-num{
+  font-size:60%;
+}
+.pagination,.l-total-page-num{
+  text-align:center;
+}
