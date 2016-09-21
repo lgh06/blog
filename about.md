@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+欢欢，常用id：lgh06 HapLeo 等。  
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+A developer.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+The source code is at 
+{% include icon-github.html username="lgh06" %} /
+[blog](https://github.com/lgh06/blog)  
+
+Other sites:
+[CSDN Blog](http://blog.csdn.net/recordme)
+[Weibo](http://weibo.com/73436303)  
+
+Wechat:mudguy
