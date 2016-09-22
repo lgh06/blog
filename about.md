@@ -13,7 +13,7 @@ The source code is at
 [blog](https://github.com/lgh06/blog)  
 
 Other sites:
-[CSDN Blog](http://blog.csdn.net/lgh06)
+[CSDN Blog](http://blog.csdn.net/lgh06/)
 [Weibo](http://weibo.com/73436303)  
 
 Wechat:mudguy
