@@ -16,4 +16,7 @@ Other sites:
 [CSDN Blog](http://blog.csdn.net/lgh06/)
 [Weibo](http://weibo.com/73436303)  
 
-Wechat:mudguy
+Wechat:mudguy  
+
+
+[图片上传入口](https://signin.aliyun.com/1172842783134088/login.htm)
