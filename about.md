@@ -8,14 +8,15 @@ permalink: /about/
 
 A developer.
 
+此博客搭建于2016年9月，早期文章参见[CSDN博客](http://blog.csdn.net/lgh06/)及[过客小站](http://passby.me)。
+
 The source code is at 
 {% include icon-github.html username="lgh06" %} /
 [blog](https://github.com/lgh06/blog)  
 
-Other sites:
-[CSDN Blog](http://blog.csdn.net/lgh06/)
-[Weibo](http://weibo.com/73436303)  
+Other sites:  
 
+[Weibo](http://weibo.com/73436303)  
 Wechat:mudguy  
 
 
