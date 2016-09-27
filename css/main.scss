@@ -37,3 +37,12 @@ $on-laptop:        800px;
 
 // Import partials from the `minima` theme.
 @import "minima";
+
+
+
+//user defined css
+::selection{
+  color: darkblue;
+  background-color: lightyellow;
+  text-shadow: 1px 1px 8px red,-1px -1px 8px black;
+}
