@@ -19,6 +19,9 @@ categories: tutorial wall
 注册阿里云并登陆，充值至少100元（开通按量付费余额需大于100元）。  
 
 按下图找到ECS，切换到按量付费。  
+![1](http://hlcdn.b0.upaiyun.com/blog/2016/10/14/1.png)  
+![2](http://hlcdn.b0.upaiyun.com/blog/2016/10/14/2.png)
+
 
 如图选择配置，看，才0.165元一个小时，带宽1元每G。  
 
