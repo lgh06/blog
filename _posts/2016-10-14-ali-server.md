@@ -53,7 +53,8 @@ ssserver -p 10680 -k test --user nobody -d start
 chmod a+rx /etc/rc.local
 reboot
 </pre>  
-然后步骤不多说了。 自己配置客户端去。
+然后步骤不多说了。 自己配置客户端去。  
+服务器ip就是香港vps的公网ip，端口就是10680，密码就是test，加密方式默认aes-256-cfb。  
 
 
 接下来重点，**创建自定义镜像**  
