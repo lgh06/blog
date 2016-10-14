@@ -33,14 +33,17 @@ categories: tutorial wall
 ![4](http://hlcdn.b0.upaiyun.com/blog/2016/10/14/4.png)  
 ![5](http://hlcdn.b0.upaiyun.com/blog/2016/10/14/5.png)
 
-接下来，回到管理控制台，查看服务器ip，使用putty或者自带ssh来连接服务器。    
+接下来，回到管理控制台，查看服务器ip，使用putty或者自带ssh来连接服务器（略，自行Google）。    
 ![6](http://hlcdn.b0.upaiyun.com/blog/2016/10/14/6.png)  
 ![7](http://hlcdn.b0.upaiyun.com/blog/2016/10/14/7.png)  
 
 或者，直接用网页版的终端：  
 ![8](http://hlcdn.b0.upaiyun.com/blog/2016/10/14/8.png)  
 ![9](http://hlcdn.b0.upaiyun.com/blog/2016/10/14/9.png)  
-![10](http://hlcdn.b0.upaiyun.com/blog/2016/10/14/10.png)  
+![10](http://hlcdn.b0.upaiyun.com/blog/2016/10/14/10.png)   
+
+输入root回车 密码回车。  
+输入密码的时候并不会有占位符，并不影响使用。   
 
 安装服务，开机自启动：  
 <pre>
@@ -56,7 +59,8 @@ ssserver -p 10680 -k test --user nobody -d start
 chmod a+rx /etc/rc.local
 reboot
 </pre>  
-然后步骤不多说了。 自己配置客户端去。  
+然后步骤不多说了。 自己配置客户端去。[windows](http://hlcdn.b0.upaiyun.com/blog/2016/10/14/sss.windows.zip) [android](http://hlcdn.b0.upaiyun.com/blog/2016/10/14/sss.apk)
+
 服务器ip就是香港vps的公网ip，端口就是10680，密码就是test，加密方式默认aes-256-cfb。  
 
 
