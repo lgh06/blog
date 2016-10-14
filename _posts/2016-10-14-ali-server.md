@@ -63,6 +63,7 @@ reboot
 
 服务器ip就是香港vps的公网ip，端口就是10680，密码就是test，加密方式默认aes-256-cfb。  
 
+实测高峰期1080P油管无压力！  
 
 接下来重点，**创建自定义镜像**  
 ![12](http://hlcdn.b0.upaiyun.com/blog/2016/10/14/12.png)  
