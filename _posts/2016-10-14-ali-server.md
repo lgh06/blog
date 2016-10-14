@@ -41,16 +41,22 @@ categories: tutorial wall
 
 安装服务，开机自启动：  
 ```
-pip install shadowsocks
-vi /etc/rc.local
-然后就进入了vi 此时按i 进入编辑模式，增加一行
-ssserver -p 10680 -k test --user nobody -d start
-然后依次输入 esc ， :wq ，回车 （没有空格没有逗号，只用按键盘上的esc，然后输入标点和英文即可）
+pip install shadowsocks  
+
+vi /etc/rc.local  
+
+然后就进入了vi 此时按i 进入编辑模式，增加一行  
+
+ssserver -p 10680 -k test --user nobody -d start  
+
+然后依次输入 esc ， :wq ，回车 （没有空格没有逗号，只用按键盘上的esc，然后输入标点和英文即可）  
 ```  
 
 赋予权限，重启生效：  
 ```
-chmod a+rx /etc/rc.local  
+chmod a+rx /etc/rc.local
+```
+```  
 reboot
 ```  
 
