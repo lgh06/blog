@@ -27,7 +27,7 @@ categories: tutorial wall
 
 ![3](http://hlcdn.b0.upaiyun.com/blog/2016/10/14/3.png)
 
-选择操作系统，建议CentOS7 创建root密码，立即购买，然后会让确认配置，点击去开通按钮。  
+选择操作系统(建议CentOS7)，创建root密码，立即购买，然后会让确认配置，点击去开通按钮。  
 可以设置自动释放时间，避免遗忘，扣费太多。  
 **余额大于100元！不够的去充值！**  
 ![4](http://hlcdn.b0.upaiyun.com/blog/2016/10/14/4.png)  
