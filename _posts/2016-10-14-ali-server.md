@@ -72,6 +72,10 @@ reboot
 
 p.s. 按量付费的服务器都快被玩坏了，  
 所以如果ping不通的话，建议新创建一个实例（反正都有镜像了，点点鼠标就好了）……  
+按量付费，不用了请释放资源，要用的时候两三分钟建好，适合大带宽需求……  
+日常浏览网页的话，建议买别人搭建的现成的。  
+That's all.
+
 
 > see also:  
 https://github.com/shadowsocks/shadowsocks/blob/master/README.md  
