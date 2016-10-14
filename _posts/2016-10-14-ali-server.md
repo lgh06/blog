@@ -70,4 +70,8 @@ reboot
 里面的服务都安装好了，开机就会自动运行了……爽不……？
 
 p.s. 按量付费的服务器都快被玩坏了，  
-所以如果ping不通的话，建议新创建一个实例（反正都有镜像了，点点鼠标就好了）……
+所以如果ping不通的话，建议新创建一个实例（反正都有镜像了，点点鼠标就好了）……  
+
+> see also:  
+https://github.com/shadowsocks/shadowsocks/blob/master/README.md  
+https://shadowsocks.org/en/config/quick-guide.html  
