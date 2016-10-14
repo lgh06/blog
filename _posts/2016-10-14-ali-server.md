@@ -27,17 +27,17 @@ categories: tutorial wall
 选择操作系统，建议CentOS7 创建root密码，立即购买，然后会让确认配置，点击去开通按钮。  
 可以设置自动释放时间，避免遗忘，扣费太多。  
 **余额大于100元！不够的去充值！**  
-![4](http://hlcdn.b0.upaiyun.com/blog/2016/10/14/4.png)
+![4](http://hlcdn.b0.upaiyun.com/blog/2016/10/14/4.png)  
 ![5](http://hlcdn.b0.upaiyun.com/blog/2016/10/14/5.png)
 
-接下来，回到管理控制台，查看服务器ip，使用putty或者自带ssh来连接服务器。  
-![6](http://hlcdn.b0.upaiyun.com/blog/2016/10/14/6.png)
-![7](http://hlcdn.b0.upaiyun.com/blog/2016/10/14/7.png)
+接下来，回到管理控制台，查看服务器ip，使用putty或者自带ssh来连接服务器。    
+![6](http://hlcdn.b0.upaiyun.com/blog/2016/10/14/6.png)  
+![7](http://hlcdn.b0.upaiyun.com/blog/2016/10/14/7.png)  
 
-或者，直接用网页版的终端：
-![8](http://hlcdn.b0.upaiyun.com/blog/2016/10/14/8.png)
-![9](http://hlcdn.b0.upaiyun.com/blog/2016/10/14/9.png)
-![10](http://hlcdn.b0.upaiyun.com/blog/2016/10/14/10.png)
+或者，直接用网页版的终端：  
+![8](http://hlcdn.b0.upaiyun.com/blog/2016/10/14/8.png)  
+![9](http://hlcdn.b0.upaiyun.com/blog/2016/10/14/9.png)  
+![10](http://hlcdn.b0.upaiyun.com/blog/2016/10/14/10.png)  
 
 安装服务，开机自启动：  
 ```
@@ -57,7 +57,7 @@ reboot
 然后步骤不多说了。 自己配置客户端去。
 
 
-接下来重点，**创建自定义镜像**
+接下来重点，**创建自定义镜像**  
 ![12](http://hlcdn.b0.upaiyun.com/blog/2016/10/14/12.png)  
 以后你在购买页面，就能直接选择这个镜像，而不用选CentOS7自己配置了，  
 里面的服务都安装好了，开机就会自动运行了……爽不……？
