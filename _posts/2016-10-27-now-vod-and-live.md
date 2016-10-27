@@ -89,7 +89,7 @@ DASH在新版桌面浏览器和新版安卓上支持较好，但手机端iOS不�
 > https://bitmovin.com/mp4box-dash-content-generation-x264/  
 > http://yaocoder.blog.51cto.com/2668309/1435771  
 > http://www.cc.ntu.edu.tw/chinese/epaper/0033/20150620_3308.html    
-
+> https://github.com/google/shaka-player
 
 [1]: https://developer.mozilla.org/en-US/docs/Web/API/MediaSource
 [2]: http://nickdesaulniers.github.io/netfix/demo/bufferWhenNeeded.html
