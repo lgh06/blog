@@ -55,18 +55,19 @@ DASH与HLS的差异主要在于对格式的支持及描述文件的不同。新�
 
 
 参考资料(自备梯子)  
+
 > http://dashif.org/software/  
-https://developer.apple.com/streaming/  
-http://blog.csdn.net/cjsafty/article/details/7922849   
-https://docs.webplatform.org/wiki/tutorials/MSEPrimer  
-https://hacks.mozilla.org/2015/07/streaming-media-on-demand-with-media-source-extensions/  
-http://www.wirewax.com/blog/post/building-a-media-source-html5-player （系列文章）  
-https://msdn.microsoft.com/en-us/library/dn551368(v=vs.85).aspx  
-https://developer.mozilla.org/en-US/Apps/Fundamentals/Audio_and_video_delivery/Setting_up_adaptive_streaming_media_sources  
-https://www.brendanlong.com/the-structure-of-an-mpeg-dash-mpd.html  
-https://bitmovin.com/mp4box-dash-content-generation-x264/  
-http://yaocoder.blog.51cto.com/2668309/1435771  
-http://www.cc.ntu.edu.tw/chinese/epaper/0033/20150620_3308.html    
+> https://developer.apple.com/streaming/  
+> http://blog.csdn.net/cjsafty/article/details/7922849   
+> https://docs.webplatform.org/wiki/tutorials/MSEPrimer  
+> https://hacks.mozilla.org/2015/07/streaming-media-on-demand-with-media-source-extensions/  
+> http://www.wirewax.com/blog/post/building-a-media-source-html5-player （系列文章）  
+> https://msdn.microsoft.com/en-us/library/dn551368(v=vs.85).aspx  
+> https://developer.mozilla.org/en-US/Apps/Fundamentals/Audio_and_video_delivery/Setting_up_adaptive_streaming_media_sources  
+> https://www.brendanlong.com/the-structure-of-an-mpeg-dash-mpd.html  
+> https://bitmovin.com/mp4box-dash-content-generation-x264/  
+> http://yaocoder.blog.51cto.com/2668309/1435771  
+> http://www.cc.ntu.edu.tw/chinese/epaper/0033/20150620_3308.html    
 
 
 [1]: https://developer.mozilla.org/en-US/docs/Web/API/MediaSource
