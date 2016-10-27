@@ -13,8 +13,8 @@ MSE内置在新版浏览器内，使JS有直接操作字节流(byte stream)的�
 简单说明流程：  
 创建video标签和MediaSource实例，然后  
 ```
-video.src = URL.createObjectURL(mediaSource);
-```
+video.src = URL.createObjectURL(mediaSource);  
+```   
 video的src指向了一个虚拟URL，这个虚拟URL指向mediaSource内的内容  
 ajax每次请求到的视频片段内容，都添加到mediaSource内，这个虚拟文件会变大。不会出现手工替换src内的url出现播放闪断的现象。
 
