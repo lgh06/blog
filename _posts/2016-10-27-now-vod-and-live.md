@@ -12,7 +12,7 @@ MSE内置在新版浏览器内，使JS有直接操作字节流(byte stream)的�
 [一个简单的demo][2]([源码][3])(只实现了分段加载，拖拽播放有bug)  
 简单说明流程：  
 创建video标签和MediaSource实例，然后  
-```js
+```
 video.src = URL.createObjectURL(mediaSource);
 ```
 video的src指向了一个虚拟URL，这个虚拟URL指向mediaSource内的内容  
