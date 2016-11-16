@@ -12,6 +12,11 @@ ScreenToGif是一款Windows上的Gif截屏神器，开源免费。
 
 和几年前的版本相比，简直就是强太多，当然，软件也变大了。  
 
-Try it,man.
+Try it,man.    
+
+20161116:Mac上可以用licecap或者gif brewery/GIPHY/gifox/或者Google一下。  
+关键词用mac gif capture会出一大堆，千万别用中文搜，或者不入流的英文。  
+另：录屏，Open Broadcaster Software才是王者。Quicktime+ffmpeg当然也凑合。
+
 
 <img src="http://hlcdn.b0.upaiyun.com/blog/2016/09/21/test.jpg">
