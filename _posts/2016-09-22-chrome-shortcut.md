@@ -13,3 +13,5 @@ categories: software
 
 
 p.s. 迷上了内嵌base64文件无法自拔 CDN Github都有倒闭的一天……
+
+20170106更新：[Chrome dev tools 快捷键](https://developers.google.cn/web/tools/chrome-devtools/shortcuts)
