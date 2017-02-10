@@ -13,6 +13,7 @@ jQuery(document).ready(function($) {
 
   // add disqus
   var $article = $('article');
+  $article.length &&
   (function(){
     var d = document;
 
