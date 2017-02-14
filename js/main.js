@@ -72,4 +72,13 @@ jQuery(document).ready(function($) {
     loadComment();
   })();
 
+  $('code').length && (function(){
+    $('code').each((i,e)=>{
+      var $e = $(e);
+      var html = $e.html();
+      if(html.indexOf('\n')>=0){
+        $e.replaceWith('<pre>'+html+'</pre>');
+      }
+    })
+  })();
 });
