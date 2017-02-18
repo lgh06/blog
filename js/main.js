@@ -72,6 +72,8 @@ jQuery(document).ready(function($) {
     loadComment();
   })();
 
+  $('head').append('<meta name="theme-color" content="#12247a">');
+
   $('code').length && (function(){
     $('code').each((i,e)=>{
       var $e = $(e);
