@@ -33,7 +33,7 @@ docker run --rm --expose 80 -i -p 8080:80 -t   hub.c.163.com/liugh0/nginx:0.0.0.
 Nginx便会在容器的80端口运行，宿主机的8080端口和容器的80端口做了映射，可以打开localhost:8080试试。  
 
 #### 常用命令  
-<pre>  
+```  
 docker run [--rm,--name,--expose,-i,-p,-t,-c] (首次)启动容器，运行镜像  
 docker ps [-a] 列出容器  
 docker images 列出镜像  
@@ -46,7 +46,7 @@ docker login 登陆某个docker hub
 docker tag $imageid $imagetag 给某个image打tag，以便区分和上传  
 docker push $imagetag  
 docker cp $containerid:/path/file $hostpath/hostfile host和container之间复制文件 参数位置可以颠倒  
-</pre>  
+```  
 
 #### 其它  
 建议试试官方hub和国内的几个hub。  

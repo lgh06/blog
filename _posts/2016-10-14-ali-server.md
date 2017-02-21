@@ -46,19 +46,19 @@ categories: tutorial wall
 输入密码的时候并不会有占位符，并不影响使用。   
 
 安装服务，开机自启动：  
-<pre>
+```
 pip install shadowsocks 
 vi /etc/rc.local  
 然后就进入了vi 此时按i 进入编辑模式，增加一行  
 ssserver -p 10680 -k test --user nobody -d start  
 然后依次输入 esc ， :wq ，回车 （没有空格没有逗号，只用按键盘上的esc，然后输入标点和英文即可）  
-</pre>  
+```  
 
 赋予权限，重启生效：    
-<pre>
+```
 chmod a+rx /etc/rc.local
 reboot
-</pre>  
+```  
 然后步骤不多说了。 自己配置客户端去。[windows](http://hlcdn.b0.upaiyun.com/blog/2016/10/14/sss.windows.zip) [android](http://hlcdn.b0.upaiyun.com/blog/2016/10/14/sss.apk)
 
 服务器ip就是香港vps的公网ip，端口就是10680，密码就是test，加密方式默认aes-256-cfb。  
