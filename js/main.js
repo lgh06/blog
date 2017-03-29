@@ -79,7 +79,7 @@ jQuery(document).ready(function($) {
       var $e = $(e);
       var html = $e.html();
       if(html.indexOf('\n')>=0){
-        $e.replaceWith('<pre>'+html+'</pre>');
+        $e.replaceWith(html);
       }
     })
   })();
