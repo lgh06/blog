@@ -19,3 +19,4 @@ categories: seo
 # nginx proxy_pass
 结合 express ，使用 nginx 的 location/rewrite/proxy_pass选项，  
 把请求导入到phantomjs这一套中。
+（[例子](https://gist.github.com/lgh06/9fcccf6e9a7d5402c5bbba7587d772d3#file-nginx-proxy-conf)）
