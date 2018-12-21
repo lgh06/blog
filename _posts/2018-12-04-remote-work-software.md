@@ -7,6 +7,7 @@ categories: soft
 
 ## Online Meeting  
 GoToMeeting  
+Zoom  
 Skype  
 
 ## Team Knowledge Share  
@@ -24,5 +25,7 @@ Teambition
 ## Git  
 Github
 Bitbucket  
+Coding / dev.tencent.com  
+
 
 
