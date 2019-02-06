@@ -2,7 +2,7 @@
 layout: post
 title:  "Fuck All The Perfect People
 "
-date:   2018-02-06 22:23:58 +0800
+date:   2019-02-06 22:23:58 +0800
 categories: drama music
 ---  
 
