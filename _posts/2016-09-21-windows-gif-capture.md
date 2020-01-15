@@ -19,4 +19,4 @@ Try it,man.
 另：录屏，Open Broadcaster Software才是王者。Quicktime+ffmpeg当然也凑合。
 
 
-<img src="http://hlcdn.b0.upaiyun.com/blog/2016/09/21/test.jpg">
+<img src="http://hlcdn.passby.me/blog/2016/09/21/test.jpg">
