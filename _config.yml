@@ -33,5 +33,5 @@ paginate_path: "/page/:num/"
 port: 12000
 
 highlighter: pygments
-
+encoding: utf-8
 gems: ["jekyll-paginate"]

@@ -5,7 +5,7 @@ date:   2017-03-29 14:55:15 +0800
 categories: dev php
 ---
 ### curl查看响应时间  
-```
+```bash
 curl -o /dev/null -s -w %{http_code}:%{http_connect}:%{content_type}:%{time_namelookup}:%{time_redirect}:%{time_pretransfer}:%{time_connect}:%{time_starttransfer}:%{time_total}:%{speed_download} http://www.baidu.com
 ```
 > http://blog.csdn.net/zhongyuan_1990/article/details/46634399
