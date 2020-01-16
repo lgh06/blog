@@ -4,7 +4,7 @@ title:  "别再假装活得很好了"
 date:   2019-11-16 12:07:05 +0800
 categories: diary
 ---
-<audio src="https://gdimg.grabdata.club/mac-public-img/2020/01/野子.mp4"></audio>  
+<video title="野子" alt="野子" src="https://gdimg.grabdata.club/mac-public-img/2020/01/野子.mp4"></video>  
 咔嚓，小刘晒出了一张朋友圈，吃海底捞的自拍照，配以文字，“和小伙伴儿们出来嗨，好开心”。  
 然而，他最近刚刚来到这个城市。身边没有什么小伙伴儿，陪他吃饭的是一群他新加入公司的同事。  
 
@@ -33,7 +33,7 @@ categories: diary
 承认和接受活得不那么好，接受自己很穷，接受自己可能就这样了，卸下没用的包袱，才好轻装起程。  
   
     
-    
+
 <hr>
 
 >题外话：可能没人看更没人在乎我的文章。但我就是该写点什么了，哪怕被写烂了。 多于140个字就好。 敬请期待下一篇。  
