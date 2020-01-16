@@ -40,10 +40,10 @@ $on-laptop:        800px;
 
 
 
-//user defined css
+// user defined css
 ::selection{
-  color: darkblue;
-  background-color: lightyellow;
+  color: lightyellow; // darkblue;
+  background-color: transparent;
   text-shadow: 1px 1px 8px red,-1px -1px 8px black;
 }
 
