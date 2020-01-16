@@ -4,7 +4,7 @@ title:  "别再假装活得很好了"
 date:   2019-11-16 12:07:05 +0800
 categories: diary
 ---
-<video title="野子" alt="野子" controls="controls" src="https://gdimg.grabdata.club/mac-public-img/2020/01/野子.mp4" style="max-height:200px;overflow-y:hidden"></video>  
+<video title="野子" alt="野子" controls="controls" src="https://gdimg.grabdata.club/mac-public-img/2020/01/野子.mp4" style="max-height:60px;overflow-y:hidden"></video>  
 咔嚓，小刘晒出了一张朋友圈，吃海底捞的自拍照，配以文字，“和小伙伴儿们出来嗨，好开心”。  
 然而，他最近刚刚来到这个城市。身边没有什么小伙伴儿，陪他吃饭的是一群他新加入公司的同事。  
 
