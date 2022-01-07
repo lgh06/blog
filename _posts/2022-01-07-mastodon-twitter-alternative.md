@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Mastodon, a Twitter & Weibo alternative"
+title:  "Mastodon, a Destributed, Decentralized Twitter / Weibo Alternative"
 date:   2022-01-07 15:36:05 +0800
 categories: tech
 ---  
 Mastodon, a Destributed, Decentralized Twitter / Weibo Alternative  
 Official Introduction Site: https://joinmastodon.org/  
-Source Code: https://joinmastodon.org/  
+Source Code: https://github.com/mastodon/mastodon  
 Some existing mirrors, you just need to register and then log in,simply like twitter:  
 https://mastodon.social/ (basically official)  
 
