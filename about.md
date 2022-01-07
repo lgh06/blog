@@ -7,7 +7,7 @@ permalink: /about/
 欢欢，常用id：lgh06 HapLeo 等。  
 
 A developer.  
-Mirror: https://hapleo.netlify.app/  
+> [Netlify Mirror](https://hapleo.netlify.app/)  
 The source code is at 
 {% include icon-github.html username="lgh06" %} /
 [blog](https://github.com/lgh06/blog)  
