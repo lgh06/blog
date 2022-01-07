@@ -17,6 +17,7 @@ https://mastodon.social/ (basically official)
 It’s Mirror:  [https://cmx-im.work/](https://cmx-im.work/)  Mirror: [https://unblockcmx.netlify.app/](https://unblockcmx.netlify.app/)  
 [https://o3o.ca/](https://o3o.ca/)  
 [mstdn.jp](http://mstdn.jp)  (japan)  
+[mastodon.technology](https://mastodon.technology)  (for tech)  
 [mastodon.hk](http://mastodon.hk)  
 
 
