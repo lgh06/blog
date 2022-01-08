@@ -27,8 +27,8 @@ https://video.ploud.jp/
 https://tilvids.com/  
 (Maybe you should use bilibili.com / ixigua.com in China )
 
-[Other mirror sites](https://instances.social/list/advanced#lang=zh&allowed=&prohibited=&min-users=&max-users=)
-
+[Other Mastodon instances](https://instances.social/list/advanced#lang=zh&allowed=&prohibited=&min-users=&max-users=)
+[other peertube instances](https://the-federation.info/peertube)
 
 
 
