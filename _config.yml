@@ -20,7 +20,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Node.js 前端 以及 Web相关的一切
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.hapleo.com" # the base hostname & protocol for your site
-twitter_username: xxgov
+twitter_username: webpagemonitor
 github_username:  lgh06
 
 # Build settings
