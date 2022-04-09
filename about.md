@@ -16,7 +16,7 @@ The source code is at
 
 Bilibili/西瓜视频/新浪微博： 阿欢课堂
 
-See also [my thoughts mainly written in English on Notion.so](https://www.notion.so/daniel-gehuan-liu/Year-2021-bf2dd579cb1b4450855bb3f951661be2)    
+See also [my thoughts mainly written in English on Notion.so](https://daniel-gehuan-liu.notion.site/Daniel-Gehuan-Liu-s-thoughts-4cbccba1880044aea740def4294dab65)    
 
 
 
