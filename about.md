@@ -18,6 +18,7 @@ The source code is at
 Bilibili/西瓜视频/新浪微博： 阿欢课堂
 
 See also [my thoughts mainly written in English on Notion.so](https://daniel-gehuan-liu.notion.site/Daniel-Gehuan-Liu-s-thoughts-4cbccba1880044aea740def4294dab65)    
+See also my [knowledge base](https://kb.hapleo.com/) / [knowledge base backup domain](https://daniel-kb.pages.dev/)
 
 
 
