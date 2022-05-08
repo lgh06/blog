@@ -17,13 +17,13 @@ The source code is at
 
 
 其它中文网址链接：  
-- 新浪微博 https://weibo.com/u/73436303  
-- 知乎 https://www.zhihu.com/people/passby  
-- Bilibili https://space.bilibili.com/37115654  
-- 西瓜视频 https://www.ixigua.com/home/85874831129  
-- 思否 https://segmentfault.com/u/if  
-- OSChina https://my.oschina.net/nooser  
-- 语雀 https://www.yuque.com/lgh06  
+- 新浪微博 [链接](https://weibo.com/u/73436303)   
+- 知乎 [链接](https://www.zhihu.com/people/passby)  
+- Bilibili [链接](https://space.bilibili.com/37115654)  
+- 西瓜视频 [链接](https://www.ixigua.com/home/85874831129)  
+- 思否 [链接](https://segmentfault.com/u/if)  
+- OSChina [链接](https://my.oschina.net/nooser)  
+- 语雀 [链接](https://www.yuque.com/lgh06)  
 - 微信公众号：心鸣  [文章链接 1](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&__biz=MzI4NDM0ODQ2NQ==&scene=1&album_id=1589411201309032449&count=3#wechat_redirect)  [文章链接 2](https://mp.weixin.qq.com/s/JJle3C6zIZPj6w4GSzROnA)
 
 Other sites mainly in English:  
