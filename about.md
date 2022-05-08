@@ -15,10 +15,20 @@ The source code is at
 
 此博客搭建于2016年9月，早期文章参见[CSDN博客](http://blog.csdn.net/lgh06/)及[过客小站](http://passby.me)。  
 
-Bilibili/西瓜视频/新浪微博： 阿欢课堂
 
-See also [my thoughts mainly written in English on Notion.so](https://daniel-gehuan-liu.notion.site/Daniel-Gehuan-Liu-s-thoughts-4cbccba1880044aea740def4294dab65)    
-See also my [knowledge base](https://kb.hapleo.com/) / [knowledge base backup domain](https://daniel-kb.pages.dev/)
+其它中文网址链接：  
+- 新浪微博 https://weibo.com/u/73436303  
+- 知乎 https://www.zhihu.com/people/passby  
+- Bilibili https://space.bilibili.com/37115654  
+- 西瓜视频 https://www.ixigua.com/home/85874831129  
+- 思否 https://segmentfault.com/u/if  
+- OSChina https://my.oschina.net/nooser  
+- 语雀 https://www.yuque.com/lgh06  
+- 微信公众号：心鸣  [文章链接 1](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&__biz=MzI4NDM0ODQ2NQ==&scene=1&album_id=1589411201309032449&count=3#wechat_redirect)  [文章链接 2](https://mp.weixin.qq.com/s/JJle3C6zIZPj6w4GSzROnA)
+
+Other sites mainly in English:  
+- My thoughts on Notion [Link](https://daniel-gehuan-liu.notion.site/Daniel-Gehuan-Liu-s-thoughts-4cbccba1880044aea740def4294dab65)   
+- My knowledge base: [Link 1](https://kb.hapleo.com/) /  [Link 2](https://daniel-kb.pages.dev/)  / [Link 3]()
 
 
 
