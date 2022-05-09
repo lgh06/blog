@@ -28,7 +28,7 @@ The source code is at
 
 Other sites mainly in English:  
 - My thoughts on Notion [Link](https://daniel-gehuan-liu.notion.site/Daniel-Gehuan-Liu-s-thoughts-4cbccba1880044aea740def4294dab65)   
-- My knowledge base: [Link 1](https://kb.hapleo.com/) /  [Link 2](https://daniel-kb.pages.dev/)  / [Link 3]()
+- My knowledge base: [Link 1](https://kb.hapleo.com/) /  [Link 2](https://daniel-kb.pages.dev/)  / [Link 3](https://kb-1251786267.file.myqcloud.com/index.html)
 
 
 
