@@ -29,9 +29,9 @@ jQuery(document).ready(function($) {
     (function() {
       var d = document, s = d.createElement('script');
       s.src = '//hapleo.disqus.com/embed.js';
-      s.setAttribute('async','async');
+      s.setAttribute('defer','defer');
       s.setAttribute('data-timestamp', +new Date());
-      (d.head || d.body).appendChild(s);
+      d.body.appendChild(s);
     })();
   })();
 
