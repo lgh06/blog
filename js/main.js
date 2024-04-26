@@ -41,4 +41,23 @@ jQuery(document).ready(function($) {
       }
     })
   })();
+
+
+  Array.from(document.querySelectorAll("img")).forEach(v => {
+    console.log(v.src)
+    let vsrc = v.src.replace(window.location.origin, "");
+    function errorHandler() {
+      v.src = "https://cf2.4r6.top" + vsrc;
+      v.removeEventListener("error", errorHandler);
+    }
+    if (String(v.src).startsWith("/blog") || String(v.src).startsWith(window.location.origin+"/blog")) {
+      if (vsrc.endsWith("!1")) {
+        v.src = "https://pub.4r6.top" + vsrc.replace("!1", "").replace(`/${vsrc.split("/")[1]}`, `/${vsrc.split("/")[1] + "1024"}`)
+        v.addEventListener("error", errorHandler)
+      } else {
+        v.src = "https://pub.4r6.top" + vsrc
+        v.addEventListener("error", errorHandler)
+      }
+    }
+  });
 });
