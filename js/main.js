@@ -45,6 +45,7 @@ jQuery(document).ready(function($) {
 
   Array.from(document.querySelectorAll("img")).forEach(v => {
     console.log(v.src)
+    v.loading = "lazy";
     let vsrc = v.src.replace(window.location.origin, "");
     function errorHandler() {
       v.src = "https://cf2.4r6.top" + vsrc;
