@@ -5,7 +5,12 @@ jQuery(document).ready(function($) {
         t = e.target;
     if( $t.is('img') && $t.parent().is('p')){
       var a = document.createElement('a');
-      a.href = t.src ;
+      if(String(t.src).endsWith("!1")){
+        // 缩略图 点击时, 去cf worker 请求原图
+        a.href = String(t.src).replace('!1','').replace("https://pub.4r6.top","https://cf2.4r6.top");
+      }else{
+        a.href = t.src ;
+      }
       a.target = '_blank';
       a.click();
     }
