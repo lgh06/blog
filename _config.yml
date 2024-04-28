@@ -27,7 +27,7 @@ github_username:  lgh06
 markdown: kramdown
 theme: minima
 
-paginate: 5
+paginate: 25
 paginate_path: "/page/:num/"
 
 port: 12000
