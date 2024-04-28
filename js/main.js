@@ -7,7 +7,7 @@ jQuery(document).ready(function($) {
       var a = document.createElement('a');
       if(String(t.src).endsWith("!1") || String(t.src).includes("/blog1024")){
         // 缩略图 点击时, 去cf worker 请求原图
-        a.href = String(t.src).replace('!1','').replace("/blog1024","/blog").replace("https://pub.4r6.top","https://cf2.4r6.top");
+        a.href = String(t.src).replace('!1','').replace("/blog1024","/blog").replace("https://pub.4r6.top","https://cf2.hapleo.com");
       }else{
         a.href = t.src ;
       }
@@ -53,7 +53,7 @@ jQuery(document).ready(function($) {
     v.loading = "lazy";
     let vsrc = v.src.replace(window.location.origin, "");
     function errorHandler() {
-      v.src = "https://cf2.4r6.top" + vsrc;
+      v.src = "https://cf2.hapleo.com" + vsrc;
       v.removeEventListener("error", errorHandler);
     }
     if (String(v.src).startsWith("/blog") || String(v.src).startsWith(window.location.origin+"/blog")) {
