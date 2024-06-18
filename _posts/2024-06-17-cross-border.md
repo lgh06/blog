@@ -15,7 +15,7 @@ https://www.zhijianchuhai.com/  上海凌连科技有限公司
 
 wumitech.com  
 
-http://www.ogcloud.cc/  
+http://www.ogcloud.cc/  com net
 
 https://cn.bing.com/search?q=tiktok%E4%B8%93%E7%BA%BF&ubiroff=1  
 
