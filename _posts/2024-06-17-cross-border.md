@@ -10,7 +10,7 @@ UCloud 的Ureach
 
 
 www.vdnlink.cn 深圳视界云天科技有限公司  视界云VIPSpeed  
-https://www.zhijianchuhai.com/  上海凌连科技有限公司  
+https://www.zhijianchuhai.com/  上海凌连科技有限公司  [南凌科技](https://www.nova.net.cn/)旗下公司  
 
 
 wumitech.com  
