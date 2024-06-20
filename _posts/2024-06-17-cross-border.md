@@ -7,6 +7,8 @@ categories: tech tools
 
 目前选择 指尖出海 与 视界云  
 
+建议使用Edge Beta浏览器
+
 ## 指尖出海  
 指尖出海的客户端：  
 官网客户端容易被360误报，建议去火山引擎官网下载[飞连客户端](https://www.volcengine.com/product/feilian/download)  
