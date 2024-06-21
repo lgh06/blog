@@ -8,7 +8,7 @@ categories: tech tools
 目前选择 指尖出海 与 视界云  
 
 建议使用Edge Beta浏览器，  
-电脑版：将DNS over https 设置为 `https://1.1.1.1/dns-query` 或 `https://doh.pub/dns-query`  
+电脑版：将DNS over https 设置为 `https://1.1.1.1/dns-query` 或 `https://doh.pub/dns-query` 或 `https://8.8.8.8/dns-query`  
 手机： 将Private DNS设置为： `dns.umbrella.com` 或 自动 或 `dns.google` 或 `dot.pub` 或 `one.one.one.one`
 
 ## 指尖出海  
