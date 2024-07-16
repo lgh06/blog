@@ -47,3 +47,8 @@ https://www.utransmit.tech/
 
 > 配合smartdns使用，效果良好。
 
+花卷  
+> https://www.betaidc.com/  
+https://huajuan.net/  
+https://www.osase.net/  
+
