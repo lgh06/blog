@@ -27,7 +27,7 @@ categories: tech tools
 创建存储桶bucket,名称为pub。  
 设置生命周期策略，blog/ 与 blog1024/ 开头， 且超过120天的旧文件，删除。  
 上传的碎片文件，超过7天，删除。  
-绑定域名为: pub.x.com  
+绑定域名为: pub.y.top  
 
 # 博客站点 图片路径与JS  
 博客站点的img标签直接写`/blog/2024/xxxx.png`这种的相对路径。  
