@@ -11,6 +11,7 @@
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
-  <script src="https://cdn.staticfile.net/jquery/2.2.4/jquery.min.js" onerror="this.src = 'https://lib.sinaapp.com/js/jquery/2.2.4/jquery-2.2.4.min.js' "></script>
+  <script src="https://cdn.staticfile.net/jquery/2.2.4/jquery.min.js" 
+    onerror="this.onerror=null;document.write('<script type=text/javascript src=\"https://lib.sinaapp.com/js/jquery/2.2.4/jquery-2.2.4.min.js\"></script>');"></script>
   <script defer src="{{ "/js/main.js" | prepend: site.baseurl }}"></script>
 </head>
