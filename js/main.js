@@ -7,7 +7,7 @@ jQuery(document).ready(function($) {
       var a = document.createElement('a');
       if(String(t.src).endsWith("!1") || String(t.src).includes("/blog1024")){
         // 缩略图 点击时, 去cf worker 请求原图
-        a.href = String(t.src).replace('!1','').replace("/blog1024","/blog").replace("https://pub.4r6.top","https://cf2.hapleo.com");
+        a.href = String(t.src).replace('!1','').replace("/blog1024","/blog").replace("https://pub.12q.asia","https://cf2.hapleo.com");
       }else{
         a.href = t.src ;
       }
@@ -58,10 +58,10 @@ jQuery(document).ready(function($) {
     }
     if (String(v.src).startsWith("/blog") || String(v.src).startsWith(window.location.origin+"/blog")) {
       if (vsrc.endsWith("!1")) {
-        v.src = "https://pub.4r6.top" + vsrc.replace("!1", "").replace(`/${vsrc.split("/")[1]}`, `/${vsrc.split("/")[1] + "1024"}`)
+        v.src = "https://pub.12q.asia" + vsrc.replace("!1", "").replace(`/${vsrc.split("/")[1]}`, `/${vsrc.split("/")[1] + "1024"}`)
         v.addEventListener("error", errorHandler)
       } else {
-        v.src = "https://pub.4r6.top" + vsrc
+        v.src = "https://pub.12q.asia" + vsrc
         v.addEventListener("error", errorHandler)
       }
     }
