@@ -5,8 +5,15 @@ date:   2024-08-15 12:23:05 +0800
 categories: tech tools
 ---  
 
+https://github.com/sonatype/docker-nexus3  
+
+```
+$ docker run -d -p 8081:8081 -p 5000:5000 --name nexus sonatype/nexus3
+```
+
 ```
 /etc/docker/daemon.json:  
+
 "insecure-registries": [
     "172.24.0.0/8"
   ],
