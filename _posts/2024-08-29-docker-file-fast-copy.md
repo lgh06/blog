@@ -44,6 +44,6 @@ docker cp containerName:/obsidian167 ./obsidian167
 
 AWS CloudShell 或 抢占式实例 或 lightsail  
 
-阿里云 容器镜像服务  
+阿里云 容器镜像服务 个人版  
 
-腾讯云 容器镜像服务  
+腾讯云 容器镜像服务 个人版  
