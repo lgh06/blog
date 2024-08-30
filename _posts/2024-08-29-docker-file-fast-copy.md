@@ -28,6 +28,8 @@ ADD https://a.com/b.zip /obsidian167/b.zip
 
 `docker push registry.cn-shanghai.aliyuncs.com/name/xxx:version1`  
 
+`docker system prune --volumes -af`
+
 客户端B： 
 
 *docker login registry.cn-shanghai.aliyuncs.com*  
