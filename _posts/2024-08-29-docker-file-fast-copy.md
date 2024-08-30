@@ -34,7 +34,7 @@ docker push registry.cn-shanghai.aliyuncs.com/name/xxx:version1
 
 docker pull registry.cn-shanghai.aliyuncs.com/name/xxx:version1  
 
-docker container create --name containerName registry.cn-shanghai.aliyuncs.com/name/xxx:version1 /bin/bash  
+`docker container create --name containerName registry.cn-shanghai.aliyuncs.com/name/xxx:version1 /bin/bash`  
 
 docker cp containerName:/obsidian167 ./obsidian167  
 
