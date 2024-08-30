@@ -20,17 +20,17 @@ FROM alpine
 ADD https://a.com/b.zip /obsidian167/b.zip
 ```
 
-docker build .  
+docker build --tag xxx:version1 .  
 
-docker images  查看 imageId  
-
-docker tag imageId registry.cn-shanghai.aliyuncs.com/xxx:version1  
+docker tag xxx:version1 registry.cn-shanghai.aliyuncs.com/xxx:version1  
 
 *docker login registry.cn-shanghai.aliyuncs.com*  
 
 docker push registry.cn-shanghai.aliyuncs.com/xxx:version1  
 
-客户端B：
+客户端B： 
+
+*docker login registry.cn-shanghai.aliyuncs.com*  
 
 docker pull registry.cn-shanghai.aliyuncs.com/xxx:version1  
 
