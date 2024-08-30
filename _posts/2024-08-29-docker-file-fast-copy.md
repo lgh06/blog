@@ -22,21 +22,21 @@ ADD https://a.com/b.zip /obsidian167/b.zip
 
 `docker build --tag xxx:version1 .`  
 
-docker tag xxx:version1 registry.cn-shanghai.aliyuncs.com/name/xxx:version1  
+`docker tag xxx:version1 registry.cn-shanghai.aliyuncs.com/name/xxx:version1`  
 
 *docker login registry.cn-shanghai.aliyuncs.com*  
 
-docker push registry.cn-shanghai.aliyuncs.com/name/xxx:version1  
+`docker push registry.cn-shanghai.aliyuncs.com/name/xxx:version1`  
 
 客户端B： 
 
 *docker login registry.cn-shanghai.aliyuncs.com*  
 
-docker pull registry.cn-shanghai.aliyuncs.com/name/xxx:version1  
+`docker pull registry.cn-shanghai.aliyuncs.com/name/xxx:version1`  
 
 `docker container create --name containerName registry.cn-shanghai.aliyuncs.com/name/xxx:version1 /bin/bash`  
 
-docker cp containerName:/obsidian167 ./obsidian167  
+`docker cp containerName:/obsidian167 ./obsidian167`  
 
 
 
