@@ -20,7 +20,7 @@ FROM alpine
 ADD https://a.com/b.zip /obsidian167/b.zip
 ```
 
-docker build --tag xxx:version1 .  
+`docker build --tag xxx:version1 .`  
 
 docker tag xxx:version1 registry.cn-shanghai.aliyuncs.com/xxx:version1  
 
