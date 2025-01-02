@@ -32,9 +32,14 @@ https://ai.chatgptzh.com/
 https://www.chatgptzh.com/  
 https://www.guangmingai.com/  https://www.guangming.me/  
 https://www.chatgptgm.com/  
+河南？  
+chatgptpf  
+businesstalent  
+微信公众号：【AI聊天问答对话机器人】  
 
 ## 大佬5  (未知)   
 https://claudechn.com/  
+辽宁沈阳？  
 mgjy2008  
 155 6606 4158  
 
