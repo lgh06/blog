@@ -45,12 +45,12 @@ mgjy2008
 
 
 ## 大佬6     
-sorryios .com/.chat/.cc  
-https://store.sorryios.com/
+sorryios .com/.chat/.cc/.cn  
+https://store.sorryios.com/  
 
 
 ## 总结  
-目前1和6比较便宜。
+目前1和6比较便宜。  
 
 
 
