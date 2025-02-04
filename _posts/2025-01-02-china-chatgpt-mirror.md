@@ -48,6 +48,9 @@ mgjy2008
 sorryios .com/.chat/.cc/.cn  
 https://store.sorryios.com/  
 
+## 银河录像局  
+https://nf.video/
+
 
 ## 总结  
 目前1和6比较便宜。  
