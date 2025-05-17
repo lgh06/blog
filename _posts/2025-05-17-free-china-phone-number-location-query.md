@@ -50,3 +50,6 @@ https://github.com/dannyhu926/phone_location
 ### API平台  
 https://api.okcode.vip/  
 https://api.vvhan.com/  
+https://xxapi.cn/  
+https://free-api.com/  
+https://api.taolale.com/  
