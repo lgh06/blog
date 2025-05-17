@@ -29,6 +29,7 @@ https://phone.265o.com/
 https://yisuan.net/app/query-phone-location  
 https://sjhszdcx.haotongcha.com/  
 https://okcode.vip/other/phone-location  
+https://xxtools.cn/tools/life/phone  
 
 https://uutool.cn/phone-batch/  批量  
 https://114phone.com/  批量  
