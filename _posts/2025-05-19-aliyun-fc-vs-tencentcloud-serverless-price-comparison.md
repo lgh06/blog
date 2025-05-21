@@ -2,7 +2,7 @@
 layout: post
 title: "阿里云FC与腾讯云Serverless价格对比"
 date: 2025-05-19 18:50:00 +0800
-categories: 
+categories: tech
 ---  
 
 按100万次请求。每个请求1KB计算。  
