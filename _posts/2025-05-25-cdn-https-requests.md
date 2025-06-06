@@ -20,7 +20,7 @@ categories: tech
 每个月免费的几百万次HTTPS次数就像是逗你玩。  
 
 ## 其它选择
-😑华为云 可以试试。静态资源没说要收请求数的费，也没说HTTPS请求数的费。  
+😊华为云 可以试试。静态资源没说要收请求数的费，也没说HTTPS请求数的费。  
 
 青云 也可以试试，0.23/G，也没写HTTPS请求数的事。  
 
@@ -45,11 +45,14 @@ categories: tech
 > Cloudflare R2 请求数要收费，存储费不算贵，流量免费。  
 
 
-😔AWS Cloudfront  
-> 回源单独收费。  (亚太区0.06美元/GB)  
+😑AWS Cloudfront  
+> 回源单独收费。 免费1TB  (亚太区0.06美元/GB)  
 
 
 😄lightCDN （无最低消费，不支持IPV6）  
+
+Gcore  
+> 可优选。免费1TB。  没仔细看。  
 
 Bunny (有最低消费，每月1美元)  
 
