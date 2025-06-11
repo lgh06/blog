@@ -34,9 +34,13 @@ categories: tech
 
 其它  
 > https://www.bitiful.com/ 1000G每月存储费65元。流量费0.12元/GB。请求费2元/百万次。  
-> https://beta.yunwu.net/  
+> https://beta.yunwu.net/ 有境外加速能力。  
 > https://www.dfyun.com.cn/  
-> https://www.dogecloud.com/ HTTPS请求数收费 0.04元/万次。
+> https://www.dogecloud.com/ HTTPS请求数收费 0.04元/万次。全球加速能力，需备案。  
+
+境外免备案加速能力  
+> 阿里云、腾讯云、华为云、京东云、yunwu。  
+> 百度云（需申请）、火山云（需申请）  
 
 
 ## 海外  
