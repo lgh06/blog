@@ -34,19 +34,19 @@ categories: tech
 
 其它  
 > https://www.bitiful.com/ 1000G每月存储费65元。流量费0.12元/GB。请求费2元/百万次。  
-> https://beta.yunwu.net/ 有境外加速能力。  
 > https://www.dfyun.com.cn/  
 > https://www.dogecloud.com/ HTTPS请求数收费 0.04元/万次。全球加速能力，需备案。  
 
 境外免备案加速能力  
-> 阿里云、腾讯云、华为云、京东云、yunwu。  
+> 阿里云、腾讯云、华为云、京东云。  
 > 百度云（需申请）、火山云（需申请）  
 
 其它吐槽  
 > 阿里云的CDN是真烂，动不动就回源，缓存没到过期时间也回源，不支持聚合回源。  
-> 百度云、华为云、腾讯云(maybe)，都有聚合回源能力。  其它厂商是否支持聚合回源，未知。  
+> 百度云、火山云、华为云、腾讯云，都有聚合回源能力。  其它厂商是否支持聚合回源，未知。  
 
-其它 yunwu/abxcdn
+其它 yunwu/abxcdn  
+> 分销味道太浓 可以免备案  
 > https://www.abxcdn.com/  
 > https://beta.yunwu.net/  
 > https://www.cdn.ceo/
