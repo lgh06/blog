@@ -55,7 +55,7 @@ dogecloud，有全球加速能力，仅适合已备案网站。
 
 abxcdn，有境外加速能力。VIP线路无法修改Host头，需要和最终访问域名一致。  
 > VIP线路会提升内地访问体验，降低海外访问体验,仅适合未备案网站  
-> beta.yunwu.net / abxcdn.com / cdn.ceo  后两个是官方站，第一个是代理。  
+> beta.yunwu.net / abxcdn.com / cdn.ceo  后两个是官方站，第一个是加盟商。  
 
 海外厂商，推荐cloudflare、lightcdn、aws。  
 
