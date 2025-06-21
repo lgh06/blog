@@ -128,7 +128,7 @@ jQuery(document).ready(function ($) {
             border-radius: 5px;
             cursor: pointer;
             margin-right: 10px;
-          ">继续阅读</button>
+          ">继续浏览</button>
           <button id="closePage" style="
             background-color: rgba(80, 212, 36, 0.8);
             color: black;
