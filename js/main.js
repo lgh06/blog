@@ -112,9 +112,13 @@ jQuery(document).ready(function ($) {
       `;
 
       cnPopup.innerHTML = `
-        <p>不面向中国大陆提供服务的声明</p>
-        <p>请仔细阅读...</p>
-        <p>更多内容...</p>
+        <h2>不面向中国大陆提供服务的声明</h2>
+        <p>本博客托管与Github上，仅为了记录个人感悟与想法，不面向中国大陆提供服务。</p>
+        <p>本博客识别到了您可能处于中国大陆，但受技术限制，无法100%确定您处在中国大陆。因此特询问您是否要继续浏览。 <br>
+          如果您继续浏览，则您确认您不处于中国大陆。 <br>
+          如果您处于中国大陆，请您关闭此页面，不要继续浏览。         
+        </p>
+        <p> 您是否要继续浏览此博客？</p>
         <div style="margin-top: 20px;">
           <button id="continueReading" style="
             background-color: #007BFF;
@@ -143,7 +147,9 @@ jQuery(document).ready(function ($) {
       });
 
       document.getElementById('closePage').addEventListener('click', () => {
+        window.history.back();
         window.close();
+        window.location.href = "https://example.com";
       });
     }
   })();
