@@ -89,8 +89,62 @@ jQuery(document).ready(function ($) {
       // 继续阅读button的CSS设置：背景色设置为蓝色；文字颜色设置为白色；border-radius设置为5px。
       // 关闭button的CSS设置：背景色设置为白，透明度80%；文字颜色设置为黑色；border-radius设置为5px。
       // 并为两个button设置点击事件，点击继续阅读，则隐藏此cnPopup的div，点击关闭，则关闭此页面。
-      // 将此div添加到body内。
-      
+      // 将此div添加到body内。      
+      const cnPopup = document.createElement('div');
+      cnPopup.id = 'cnPopup';
+      cnPopup.style.cssText = `
+        width: 90vw;
+        height: 90vh;
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        border: 2px solid #00008B;
+        background-color: rgba(255, 255, 255, 0.95);
+        border-radius: 10px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 20px;
+        box-sizing: border-box;
+        z-index: 1000;
+      `;
+
+      cnPopup.innerHTML = `
+        <p>不面向中国大陆提供服务的声明</p>
+        <p>请仔细阅读...</p>
+        <p>更多内容...</p>
+        <div style="margin-top: 20px;">
+          <button id="continueReading" style="
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-right: 10px;
+          ">继续阅读</button>
+          <button id="closePage" style="
+            background-color: rgba(80, 212, 36, 0.8);
+            color: black;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+          ">关闭</button>
+        </div>
+      `;
+
+      document.body.appendChild(cnPopup);
+
+      document.getElementById('continueReading').addEventListener('click', () => {
+        cnPopup.style.display = 'none';
+      });
+
+      document.getElementById('closePage').addEventListener('click', () => {
+        window.close();
+      });
     }
   })();
 });
