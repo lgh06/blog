@@ -113,7 +113,7 @@ jQuery(document).ready(function ($) {
 
       cnPopup.innerHTML = `
         <h2>不面向中国大陆提供服务的声明</h2>
-        <p>本博客托管与Github上，仅为了记录个人感悟与想法，不面向中国大陆提供服务。</p>
+        <p>本博客托管于Github上，仅为了记录个人感悟与想法，不面向中国大陆提供服务。</p>
         <p>本博客识别到了您可能处于中国大陆，但受技术限制，无法100%确定您处在中国大陆。因此特询问您是否要继续浏览。 <br>
           如果您继续浏览，则您确认您不处于中国大陆。 <br>
           如果您处于中国大陆，请您关闭此页面，不要继续浏览。         
@@ -136,7 +136,7 @@ jQuery(document).ready(function ($) {
             padding: 10px 20px;
             border-radius: 5px;
             cursor: pointer;
-          ">关闭</button>
+          ">离开</button>
         </div>
       `;
 
