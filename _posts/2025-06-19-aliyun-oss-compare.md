@@ -37,7 +37,7 @@ categories: tech
 外网流出流量 20GB内免费 国内0.11元/GB 国外0.22元/GB  
 https费用  每月免200万次  0.04元/万次  
 
-## Bitful  
+## Bitiful  
 存储空间 请求数 存储桶流出 内置CDN回源 内置CDN流出 分别计费。  
 存储空间免费50G。0.065元/GB/月。  
 某些情况下可能比dogecloud还贵。  
