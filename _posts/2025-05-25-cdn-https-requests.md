@@ -30,11 +30,12 @@ categories: tech
 火山云 有https请求数费用。国内0.22元/GB。资源包14元100GB一年。支持聚合回源。  
 
 京东云CDN 国内0.23元/GB。资源包18元100GB一年。  
+七牛云CDN 请求数不收费，但是每GB定价较贵。适合网页小文件加速。动态请求另外收费。  
 青云 也可以试试，0.23/G，也没写HTTPS请求数的事。  
 
 
 其它  
-> https://www.bitiful.com/ 1000G每月存储费65元。流量费0.12元/GB。请求费2元/百万次。  
+> https://www.bitiful.com/ 1000G每月存储费65元，流量费0.12元/GB，云存储请求费2元/百万次。CDN请求费暂免。CDN只支持静态资源。  
 > https://www.dfyun.com.cn/  
 > https://www.dogecloud.com/ HTTPS请求数收费 0.04元/万次。全球加速能力，需备案。  
 
