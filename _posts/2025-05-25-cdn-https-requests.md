@@ -35,7 +35,7 @@ categories: tech
 
 
 其它  
-> https://www.bitiful.com/ 1000G每月存储费65元，流量费0.12元/GB，云存储请求费2元/百万次。CDN请求费暂免。CDN只支持静态资源。  
+> https://www.bitiful.com/ 1000G每月存储费65元，流量费0.12元/GB，云存储请求费2元/百万次。CDN请求费暂免。CDN只支持静态资源。CDN流量费比较便宜。需备案。  
 > https://www.dfyun.com.cn/  
 > https://www.dogecloud.com/ HTTPS请求数收费 0.04元/万次。全球加速能力，需备案。  
 > UCloud/金山云/天翼云/中国移动云 等，都收https请求数费用。  
