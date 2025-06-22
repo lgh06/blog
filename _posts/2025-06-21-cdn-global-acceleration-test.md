@@ -30,5 +30,7 @@ Bitiful CDN: https回源成功，功能正常。加速区域宣传为全球，�
 ~~阿里云CDN~~：区域设置为全球，源站设置为cloudflare，境内境外都大范围502.  
 经排查，不是回源HOST的问题，也不是回源SNI的问题，也不是refer的问题，反正不知道是哪里的问题。  
 
+> 特别提示 由于CDN的源站是Cloudflare，因此源站地址可以设置为time.is / ip.skk.moe / ping.pe 等，Cloudflare优选cname亦可，只需要回源Host及回源SNI配置正确即可。  
+
 
 其它CDN： 还没测。要么收请求次数费，要么收https费，要么收回源费，要么就是每GB单价太贵。  
