@@ -35,9 +35,9 @@ categories: tech
 
 
 其它  
-> https://www.bitiful.com/ 1000G每月存储费65元，流量费0.12元/GB，云存储请求费2元/百万次。CDN请求费暂免。CDN只支持静态资源。CDN流量费比较便宜。需备案。  
+> https://www.bitiful.com/ 1000G每月存储费65元，流量费0.12元/GB，云存储请求费2元/百万次。CDN请求费暂免。CDN只支持静态资源。CDN流量费比较便宜。需备案。网宿分销商。  
 > https://www.dfyun.com.cn/  
-> https://www.dogecloud.com/ HTTPS请求数收费 0.04元/万次。全球加速能力，需备案。  
+> https://www.dogecloud.com/ HTTPS请求数收费 0.04元/万次。全球加速能力，需备案。腾讯云分销商。  
 > UCloud/金山云/天翼云/中国移动云 等，都收https请求数费用。  
 
 境外免备案加速能力  
@@ -49,7 +49,7 @@ categories: tech
 > 百度云、火山云、华为云、腾讯云，都有聚合回源能力。  其它厂商是否支持聚合回源，未知。  
 
 其它 yunwu/abxcdn  
-> 分销味道太浓 可以免备案  
+> 分销味道太浓 可以免备案。火山云、腾讯云分销商。   
 > https://www.abxcdn.com/  
 > https://beta.yunwu.net/  
 > https://www.cdn.ceo/
