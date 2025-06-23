@@ -68,6 +68,17 @@ jQuery(document).ready(function ($) {
   });
 
   (function () {
+
+    try {
+      let t = localStorage.getItem("acceptedCnPopupTime")
+      // 七天内只提示一次
+      if( t !== null && ( Date.now() - t < 1000 * 60 * 60 * 24 * 7) ){
+        return;
+      }
+    } catch (error) {
+      
+    }
+
     let insideMainland = true;
     // 获取当前时区 操作系统级时区
     let timezone = "";
@@ -144,6 +155,11 @@ jQuery(document).ready(function ($) {
 
       document.getElementById('continueReading').addEventListener('click', () => {
         cnPopup.style.display = 'none';
+        try {
+          localStorage.setItem("acceptedCnPopupTime", Date.now()+"");
+        } catch (error) {
+          
+        }
       });
 
       document.getElementById('closePage').addEventListener('click', () => {
