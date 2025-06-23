@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "阿里云国内版OSS与国际版OSS对比"
+title:  "阿里云国内版OSS与国际版OSS与其它便宜云存储对比"
 date:   2025-06-19 20:13:00 +0800
 categories: tech
 ---
@@ -36,11 +36,19 @@ categories: tech
 10GB内免费 0.09元/GB/月  
 外网流出流量 20GB内免费 国内0.11元/GB 国外0.22元/GB  
 https费用  每月免200万次  0.04元/万次  
+存储价格和CDN价格有一定竞争力。适合存储100K以上的文件。  
 
 ## Bitiful  
 存储空间 请求数 存储桶流出 内置CDN回源 内置CDN流出 分别计费。  
 存储空间免费50G。0.065元/GB/月。  
 某些情况下可能比dogecloud还贵。  
+控制台中的CDN设置项极少，CDN功能不推荐。  
+
+## 海外wasabi与backblaze  
+wasabi / backblaze 大容量存储，便宜，有最低消费  
+> wasabi 低消7美元每月，1TB容量，流量每月不大于存储量则免费。  
+> backblaze低消6美元每月，1TB容量，每月(3倍存储量)的流量以内免费。或者15美元每月每TB，无限流量，仅限大客户，需要签合同  
+> 他们俩也加入了cloudflare的带宽联盟。  wasabi流量免费额度同公网。backblaze写的是全免。  
 
 ## 重点  
 阿里云（国际站、国内站）加入了cloudflare的带宽联盟，香港、新加坡、美西等区域的OSS，流出到cloudflare的流量费免费。  
