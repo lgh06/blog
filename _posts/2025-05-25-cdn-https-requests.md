@@ -38,7 +38,7 @@ categories: tech
 > https://www.bitiful.com/ 1000G每月存储费65元，流量费0.12元/GB，云存储请求费2元/百万次。CDN请求费暂免。CDN只支持静态资源。CDN流量费比较便宜。需备案。网宿分销商。实测为火山云节点。CDN控制台简陋。暂不推荐。  
 > https://www.dfyun.com.cn/  
 > 😑https://www.dogecloud.com/ HTTPS请求数收费 0.04元/万次。流量境内0.12元/GB，境外0.24元/GB。有全球加速能力，需备案。腾讯云分销商。由于**https请求数收费**，只适合加速**100KB以上**的文件。另有aliyun OSS海外区域 + cloudflare方案，多吉云的低价存储空间优势不大。  
-> UCloud/金山云/天翼云/中国移动云 等，都收https请求数费用。  
+> UCloud/金山云/天翼云/中国移动云 等，都收https请求数费用。update : UCloud控制台太简陋，境内静态加速不收https请求数费用；境外的、动态的，都收。  
 
 境外免备案加速能力  
 > 腾讯云、华为云、京东云（贵了点）、~~阿里云（缓存不行）~~。  
