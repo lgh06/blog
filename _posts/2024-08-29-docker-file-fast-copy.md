@@ -49,3 +49,6 @@ AWS CloudShell 或 抢占式实例 或 lightsail
 阿里云 容器镜像服务 个人版  
 
 腾讯云 容器镜像服务 个人版  
+
+20250708 update :  
+https://cnb.cool/ 云开发 也可以用用。
