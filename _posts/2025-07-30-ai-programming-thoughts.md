@@ -8,16 +8,17 @@ categories: thoughts
 ## 可完全白嫖的工具  
 
 ### Trae 国际版  
-Gemini-2.5-Flash模型，每月1000次，完全免费。  
+手动切换到Gemini-2.5-Flash模型，每月1000次，免费。  
+不要使用别的模型，不够用。（有钱大佬请充10美元 每月）  
 Trae国际版在登录时会调用浏览器，同时验证访客IP所属国家。  
 可以使用澳门、香港的手机卡或者ESIM或者合法跨境线路，规避IP检测问题。  
 
 ### Trae 中国内地版  
 目前完全免费。  
-支持 豆包1.6、DeepSeek、Kimi K2、Qwen3 Coder模型。  
+支持 豆包1.6、DeepSeek、Kimi K2、Qwen3 Coder等模型。  
 
 ### Google AI Studio  
-可获取API Key，（实际为跳转到Google Cloud），每天可完全免费使用Gemini 2.5 Flash模型数百次，Gemini 2.5 Pro模型数十次。  
+可获取API Key，（实际为关联Google Cloud账户），每天可完全免费使用Gemini 2.5 Flash模型数百次，Gemini 2.5 Pro模型数十次。  
 配置到VSCode的Roo Code插件或者Cline插件上，轻量使用，够用。  
 如果有合法跨境线路，强烈建议使用。
 
@@ -50,7 +51,11 @@ GLM4.5 在 bigmodel.cn  。
 **少碰**第三方中转平台。  
 > 便宜没好货 背后用啥模型冒充 鬼才知道  
 
-如果非要使用国外先进模型，建议使用境外服务器中转Google Gemini。  
+如果非要使用国外先进模型，建议使用日本或新加坡的VPS中转Google Gemini。  
 
 openai（gpt4.1 o3-mini等模型） / anthropic（claude sonnet 4等模型） / grok因为支付与风险控制问题，不建议尝试。  
+
+> https://sealos.run/  https://run.claw.cloud/  
+https://akile.io  
+海外服务器 厂商推荐。  
 
