@@ -51,3 +51,11 @@ https://cdnjs.com/libraries/lxgw-wenkai-webfont
 https://www.jsdelivr.com/  
 https://fastly.jsdelivr.net/npm/lxgw-wenkai-webfont/  
 https://gcore.jsdelivr.net/npm/lxgw-wenkai-webfont/  
+https://quantil.jsdelivr.net/npm/lxgw-wenkai-webfont/  
+https://testingcf.jsdelivr.net/npm/lxgw-wenkai-webfont/  
+
+## 其它可托管字体的平台  
+github + jsdelivr / unpkg.com  
+npm + jsdelivr / unpkg.com  
+https://cnb.cool  
+还有，看以前的博客文章
