@@ -5,7 +5,7 @@ date: 2025-08-03 17:44:00 +0800
 categories: tech
 ---
 
-## `@font-face` 与 `unicode-range`
+## @font-face 与 unicode-range
 
 新版本浏览器支持了 `@font-face` 与 `unicode-range` ， 可以自动根据网页页面上用到的文字，查找unicode编码，从而自动下载字体的分片文件。  
 > [MDN链接 @font-face](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face)
@@ -50,9 +50,9 @@ https://cdnjs.com/
 https://cdnjs.com/libraries/lxgw-wenkai-webfont  
 https://www.jsdelivr.com/  
 https://fastly.jsdelivr.net/npm/lxgw-wenkai-webfont/  
-https://gcore.jsdelivr.net/npm/lxgw-wenkai-webfont/  
-https://quantil.jsdelivr.net/npm/lxgw-wenkai-webfont/  
 https://testingcf.jsdelivr.net/npm/lxgw-wenkai-webfont/  
+https://quantil.jsdelivr.net/npm/lxgw-wenkai-webfont/  
+https://gcore.jsdelivr.net/npm/lxgw-wenkai-webfont/  
 
 ## 其它可托管字体的平台  
 github + jsdelivr / unpkg.com  
