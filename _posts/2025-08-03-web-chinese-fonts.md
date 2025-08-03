@@ -43,5 +43,6 @@ https://ziyouziti.com/
 
 https://cdnjs.com/  
 https://cdnjs.com/libraries/lxgw-wenkai-webfont  
+https://www.jsdelivr.com/  
 https://fastly.jsdelivr.net/npm/lxgw-wenkai-webfont/  
 https://gcore.jsdelivr.net/npm/lxgw-wenkai-webfont/  
