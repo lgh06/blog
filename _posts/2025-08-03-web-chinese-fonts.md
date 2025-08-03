@@ -11,6 +11,10 @@ categories: tech
 > [MDN链接 @font-face](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face)
 > [MDN链接 unicode-range](https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/unicode-range)  
 
+## 中文字体切分工具  
+https://github.com/KonghaYao/cn-font-split  
+https://chinese-font.netlify.app/zh-cn/
+
 ## 我喜欢的几个字体及字体作者  
 
 ### LxgwWenKai 霞鹜文楷  
@@ -37,6 +41,7 @@ https://github.com/AmusementClub/WenQuanYi-Bitmap-Song-TTF
 ## 几个字体站及CDN  
 
 ZSFT  https://fonts.zeoseven.com/  
+https://chinese-font.netlify.app/zh-cn/  
 猫啃网  https://www.maoken.com/  
 https://zfont.cn/  
 https://ziyouziti.com/  
