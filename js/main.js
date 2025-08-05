@@ -169,6 +169,29 @@ jQuery(document).ready(function ($) {
       });
     }
   })();
+
+  // JS 获取字体列表  
+  async function getFontList() {
+    let fmList = [];
+    document.fonts.ready.then((fontFaceSet) => {
+      // Any operation that needs to be done only after all used fonts
+      // have finished loading can go here.
+      const fontFaces = [...fontFaceSet];
+      // console.log(fontFaces);
+      fontFaces.forEach(v =>{
+        if(!fmList.includes(v.family)){
+          fmList.push(v.family);
+        }
+      })
+      console.log(fmList)
+      // some fonts may still be unloaded if they aren't used on the site
+      // console.log(fontFaces.map((f) => f.status));
+    });
+  }
+  getFontList();
+  
+
+
 });
 
 
