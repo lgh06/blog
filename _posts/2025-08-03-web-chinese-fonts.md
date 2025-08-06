@@ -55,7 +55,8 @@ https://quantil.jsdelivr.net/npm/lxgw-wenkai-webfont/
 https://gcore.jsdelivr.net/npm/lxgw-wenkai-webfont/  
 
 ## 其它可托管字体的平台  
-github + jsdelivr / unpkg.com  
-npm + jsdelivr / unpkg.com  
-https://cnb.cool  
-还有，看以前的博客文章
+github/npm + jsdelivr ，  
+npm + unpkg.com  
+国外直连，国内访问可自己套上一层CDN。  
+
+或者国内多吉云，国外阿里云OSS海外区域+Cloudflare 。  
