@@ -56,6 +56,7 @@ GLM4.5 在 bigmodel.cn  。
 openai（gpt4.1 o3-mini等模型） / anthropic（claude sonnet 4等模型） / grok因为支付与风险控制问题，不建议尝试。  
 
 > https://sealos.run/  https://run.claw.cloud/  
-https://akile.io  
+https://akile.io  [算力云anygpu](https://www.suanlix.cn/user/login)  
+[lightnode](https://www.lightnode.com/)
 海外服务器 厂商推荐。  
 
