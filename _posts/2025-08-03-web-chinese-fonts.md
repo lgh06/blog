@@ -55,8 +55,18 @@ https://quantil.jsdelivr.net/npm/lxgw-wenkai-webfont/
 https://gcore.jsdelivr.net/npm/lxgw-wenkai-webfont/  
 
 ## 其它可托管字体的平台  
-github/npm + jsdelivr ，  
+github/npm + jsdelivr  
 npm + unpkg.com  
-国外直连，国内访问可自己套上一层CDN。  
+国外直连   
+国内访问可自己套上一层CDN。（百度云、华为云、abxcdn、七牛云、多吉云 等）  
+> 国内也可以试试套上免费的 腾讯云国际版edgeone / 阿里云国际版ESA  
+> 或者便宜的 lightcdn / bunny.net 等  
 
-或者国内多吉云，国外阿里云OSS海外区域+Cloudflare 。  
+## 自己存储源文件  
+国内用多吉云存源文件  
+> 多吉云国内访问0.11元/GB。多吉云收请求数费用0.04元/万次。
+> 如果有更便宜的且不频繁回源的且不收请求数费用的CDN，套上亦可。  
+> 如abxcdn、华为、七牛、百度云 等  
+
+国外访问，用阿里云OSS海外区域存源文件 + Cloudflare。  
+> 再套上一层 腾讯云国际版edgeone / 阿里云国际版ESA / lightcdn / bunny.net 亦可。  
