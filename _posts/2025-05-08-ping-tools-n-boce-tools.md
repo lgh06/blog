@@ -5,10 +5,14 @@ date: 2025-05-08 14:50:00 +0800
 categories: tools
 ---
 
-https://ping.pe/  
+
 https://zhale.me/  
+https://www.itdog.cn/http/  
+https://www.boce.com/  
+https://17ce.com/  
 https://boce.aliyun.com/  
 
+https://ping.pe/  
 https://ping.chinaz.com/  
 
 
