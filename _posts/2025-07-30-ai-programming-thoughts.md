@@ -17,6 +17,18 @@ Trae国际版在登录时会调用浏览器，同时验证访客IP所属国家�
 目前完全免费。  
 支持 豆包1.6、DeepSeek、Kimi K2、Qwen3 Coder等模型。  
 
+### qwen-code  
+https://npmmirror.com/package/@qwen-code/qwen-code  
+配合qwen.ai账号，OAuth登录。每天白嫖2000次API调用。  
+配合ModelScope，每天白嫖2000次API调用。  
+> 还可配合任意OpenAI兼容的接口。  
+
+```
+export OPENAI_API_KEY="your_api_key_here"
+export OPENAI_BASE_URL="https://api-inference.modelscope.cn/v1"
+export OPENAI_MODEL="Qwen/Qwen3-Coder-480B-A35B-Instruct"
+```
+
 ### Google AI Studio  
 可获取API Key，（实际为关联Google Cloud账户），每天可完全免费使用Gemini 2.5 Flash模型数百次，Gemini 2.5 Pro模型数十次。  
 配置到VSCode的Roo Code插件或者Cline插件上，轻量使用，够用。  
