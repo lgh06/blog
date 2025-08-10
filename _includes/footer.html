@@ -35,7 +35,21 @@
 
   </div>
 </footer>
-<script>
+<script type="module">
+
+  let isBJTimeBetween0And18 = true;
+  // 获取北京时间，如果在18点到24点之间，则把 isBJTimeBetween0And18 设置为 false
+  try {
+    // 创建一个使用北京时间（Asia/Shanghai）的日期对象
+    const beijingTime = new Date().toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' });
+    const beijingHour = new Date(beijingTime).getHours();
+    // 若北京时间在18点到24点之间，将 isBJTimeBetween0And18 设置为 false
+    if (beijingHour >= 18 && beijingHour < 24) {
+      isBJTimeBetween0And18 = false;
+    }
+  } catch (error) {
+    console.error('获取北京时间时出错:', error);
+  }
   function appendCSS(f1,f2){
     const link = document.createElement('link');
     link.rel = 'preload';
@@ -53,10 +67,17 @@
     document.head.appendChild(link);
   }
   // 动态创建 字体样式
-  appendCSS(
-    'https://j.onlinetool.cc/gh/lgh06/web_resources_2025@cdn/dist/KingHwa_OldSong_max150k/result.css',
-    'https://fastly.jsdelivr.net/gh/lgh06/web_resources_2025@cdn/dist/KingHwa_OldSong_max150k/result.css'
-  );
+  if(isBJTimeBetween0And18){
+    appendCSS(
+      'https://j.onlinetool.cc/gh/lgh06/web_resources_2025@cdn/dist/KingHwa_OldSong_max150k/result.css',
+      'https://fastly.jsdelivr.net/gh/lgh06/web_resources_2025@cdn/dist/KingHwa_OldSong_max150k/result.css'
+    );
+  }else{
+    appendCSS(
+      'https://js.onlinetool.cc/gh/lgh06/web_resources_2025@cdn/dist/KingHwa_OldSong_max150k/result.css',
+      'https://fastly.jsdelivr.net/gh/lgh06/web_resources_2025@cdn/dist/KingHwa_OldSong_max150k/result.css'
+    );
+  }
   appendCSS(
     'https://fontsapi.zeoseven.com/309/main/result.css',
     'https://fontsapi-storage.zeoseven.com/309/main/result.css'
