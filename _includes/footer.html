@@ -35,23 +35,38 @@
 
   </div>
 </footer>
-    <link rel="preload" as="style" crossorigin
-      href="https://fontsapi.zeoseven.com/309/main/result.css"
-      onload="this.rel='stylesheet'"
-      onerror="this.href='https://fontsapi-storage.zeoseven.com/309/main/result.css'" 
-    />
-    <link rel="preload" as="style" crossorigin
-      href="https://j.onlinetool.cc/gh/lgh06/web_resources_2025@cdn/dist/KingHwa_OldSong_max150k/result.css"
-      onload="this.rel='stylesheet'"
-      onerror=" this.href = 'https://fastly.jsdelivr.net/gh/lgh06/web_resources_2025@cdn/dist/KingHwa_OldSong_max150k/result.css' "
-    />
-    <link rel="preload" as="style" crossorigin
-      href="https://fontsapi.zeoseven.com/293/main/result.css"
-      onload="this.rel='stylesheet'"
-      onerror=" this.href = 'https://fontsapi-storage.zeoseven.com/293/main/result.css' "
-    />
-    <link rel="preload" as="style"
-      href="https://gcore.jsdelivr.net/gh/lgh06/web_resources_2025@cdn/dist/LXGWWenKaiMonoGB_Regular_max100k/result.css"
-      onload="this.rel='stylesheet'"
-      onerror=" this.href = 'https://j.onlinetool.cc/gh/lgh06/web_resources_2025@cdn/dist/LXGWWenKaiMonoGB_Regular_max100k/result.css' "
-    />
+<script>
+  function appendCSS(f1,f2){
+    const link = document.createElement('link');
+    link.rel = 'preload';
+    link.as = 'style';
+    link.crossOrigin = true;
+    link.href = f1;
+    link.onload = function() {
+      this.rel = 'stylesheet';
+    };
+    if(f2){
+      link.onerror = function() {
+        this.href = f2;
+      };
+    }
+    document.head.appendChild(link);
+  }
+  // 动态创建 字体样式
+  appendCSS(
+    'https://j.onlinetool.cc/gh/lgh06/web_resources_2025@cdn/dist/KingHwa_OldSong_max150k/result.css',
+    'https://fastly.jsdelivr.net/gh/lgh06/web_resources_2025@cdn/dist/KingHwa_OldSong_max150k/result.css'
+  );
+  appendCSS(
+    'https://fontsapi.zeoseven.com/309/main/result.css',
+    'https://fontsapi-storage.zeoseven.com/309/main/result.css'
+  );
+  appendCSS(
+    'https://fontsapi.zeoseven.com/293/main/result.css',
+    'https://fontsapi-storage.zeoseven.com/293/main/result.css',
+  );
+  appendCSS(
+    'https://gcore.jsdelivr.net/gh/lgh06/web_resources_2025@cdn/dist/LXGWWenKaiMonoGB_Regular_max100k/result.css',
+    'https://j.onlinetool.cc/gh/lgh06/web_resources_2025@cdn/dist/LXGWWenKaiMonoGB_Regular_max100k/result.css',
+  )
+</script>
