@@ -33,19 +33,23 @@ export OPENAI_MODEL="Qwen/Qwen3-Coder-480B-A35B-Instruct"
 https://lingma.aliyun.com/lingma  
 目前完全免费，可以使用通义最新的模型，辅助编程。  
 
-
 ### Google AI Studio  
 可获取API Key，（实际为关联Google Cloud账户），每天可完全免费使用Gemini 2.5 Flash模型数百次，Gemini 2.5 Pro模型数十次。  
 配置到VSCode的Roo Code插件或者Cline插件上，轻量使用，够用。  
-如果有合法跨境线路，强烈建议使用。
+可利用境外服务器中转。  
 
-## 需要充点钱的工具
+### Gemini Code Assist  
+https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist  
+https://developers.google.cn/gemini-code-assist/docs/overview?hl=zh-cn  
+需要跨境网络支持。  
 
 ### Open Router  
 日常会滚动更新一些模型名字中带有 free 的模型。  
 充值10美元可提升请求频率，但10美元可能要在一年内花完。  
 
 Open Router的连接性有时候也有问题。需要搭配合法跨境线路使用，或者使用Caddy / Nginx等服务器端软件，中转一下。  
+
+## 需要充点钱的工具
 
 ### Github Copilot  
 十美元一月，日常编程完全够用。  
@@ -74,6 +78,6 @@ openai（gpt4.1 o3-mini等模型） / anthropic（claude sonnet 4等模型） / 
 
 > https://sealos.run/  https://run.claw.cloud/  
 https://akile.io  [算力云anygpu](https://www.suanlix.cn/)  
-[lightnode](https://www.lightnode.com/)
+[lightnode](https://www.lightnode.com/)  
 海外服务器 厂商推荐。  
 
