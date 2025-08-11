@@ -29,6 +29,11 @@ export OPENAI_BASE_URL="https://api-inference.modelscope.cn/v1"
 export OPENAI_MODEL="Qwen/Qwen3-Coder-480B-A35B-Instruct"
 ```
 
+### 通义灵码  
+https://lingma.aliyun.com/lingma  
+目前完全免费，可以使用通义最新的模型，辅助编程。  
+
+
 ### Google AI Studio  
 可获取API Key，（实际为关联Google Cloud账户），每天可完全免费使用Gemini 2.5 Flash模型数百次，Gemini 2.5 Pro模型数十次。  
 配置到VSCode的Roo Code插件或者Cline插件上，轻量使用，够用。  
