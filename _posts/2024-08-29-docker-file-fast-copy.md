@@ -51,4 +51,9 @@ AWS CloudShell 或 抢占式实例 或 lightsail
 腾讯云 容器镜像服务 个人版  
 
 20250708 update :  
-https://cnb.cool/ 云开发 也可以用用。
+https://cnb.cool/ 云开发 也可以用用。  
+
+20250814 update :  
+搭配 vmoscloud 云手机、  www.suanlix.cn 云电脑  
+wetransfer.com 、 cnb.cool   
+可以快速下载文件 。  
