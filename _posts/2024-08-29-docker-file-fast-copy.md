@@ -56,4 +56,5 @@ https://cnb.cool/ 云开发 也可以用用。
 20250814 update :  
 搭配 vmoscloud 云手机、  www.suanlix.cn 云电脑  
 wetransfer.com 、 cnb.cool   
+> 外加 wenshushu.cn / 123pan.com / 百度网盘 等
 可以快速下载文件 。  
