@@ -18,6 +18,8 @@ categories: tech
 [Jitsi10](https://jitsi.is)  
 [Jitsi11](https://meet3.lib.nttu.edu.tw/)  
 
+白嫖[cnb](https://cnb.cool/lgh06/jitsi-meet)  
+
 Zoho Meet 中国版、国际版  
 华为云会议  
 微软Teams 国际版、中国版  
