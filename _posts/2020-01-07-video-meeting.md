@@ -18,6 +18,10 @@ categories: tech
 [Jitsi10](https://jitsi.net.scc.kit.edu/)  
 [Jitsi11](https://meet3.lib.nttu.edu.tw/)  
 
+Zoho Meet 中国版、国际版  
+华为云会议  
+微软Teams 国际版、中国版  
+
 ## 主流推荐
 1. [zoom.us](https://zoom.us) / 
 [zoom台湾](https://zoomnow.net/) / 
