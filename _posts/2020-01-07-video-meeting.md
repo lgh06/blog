@@ -13,14 +13,16 @@ categories: tech
 [Jitsi5](https://meet.init7.net/en/)  
 [Jitsi6](https://meet.physik.kit.edu/)  
 [Jitsi7](https://edu.meet.garr.it/)  
-[Jitsi8](https://v.onlinetool.cc/)  
-[Jitsi9](https://jitsi.is)  
-[Jitsi10](https://jitsi.net.scc.kit.edu/)  
+[Jitsi8](https://jitsi.net.scc.kit.edu/)  
+[Jitsi9](https://v.onlinetool.cc/)  
+[Jitsi10](https://jitsi.is)  
 [Jitsi11](https://meet3.lib.nttu.edu.tw/)  
 
 Zoho Meet 中国版、国际版  
 华为云会议  
 微软Teams 国际版、中国版  
+
+[TIM](https://tim.qq.com)
 
 ## 主流推荐
 1. [zoom.us](https://zoom.us) / 
