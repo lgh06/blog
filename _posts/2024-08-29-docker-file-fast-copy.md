@@ -60,8 +60,12 @@ wetransfer.com 、 cnb.cool
 可以快速下载文件 。  
 
 20250820 update :  
-云手机、云电脑 （新加坡、日本、香港） 下载大文件  
-阿里云OSS 海外区域（最好与云手机云电脑同区域） 将大文件上传  
-给阿里云OSS绑定域名，域名套上cloudflare  
-去cnb.cool 优选cf hosts，将大文件下载至cnb  
-npx serve . -p 3000 或 git 将大文件提交  
+1. 云手机、云电脑 （新加坡、日本、香港） 下载大文件  
+2. 阿里云OSS 海外区域（最好与云手机云电脑同区域） 将大文件上传  
+   > oss.console.aliyun.com  
+
+3. 给阿里云OSS绑定域名，域名套上cloudflare  
+   > 绑定一次即可  
+
+4. 去cnb.cool 优选cf hosts，将大文件下载至cnb  
+5. npx serve . -p 3000 或 git 将大文件提交  
