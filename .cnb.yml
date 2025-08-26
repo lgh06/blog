@@ -1,0 +1,12 @@
+"(main|master)":
+  push:
+    - runner:
+        cpus: 1
+      imports:
+        # 引用密钥仓库文件
+        - https://cnb.cool/lgh06/daniel_tokens/-/blob/main/gh_lgh06.yml
+      stages:
+        - name: sync repo to github
+          script: |
+            git remote add gh https://lgh06:${GH_LGH06_REPO_BLOG_TOKEN}@github.com/lgh06/blog.git
+            git push -u gh master
