@@ -66,7 +66,7 @@ Open Router的连接性有时候也有问题。需要搭配合法跨境线路使
 DeepSeek 在 `platform.deepseek.com`  。  
 Kimi K2 在 `platform.moonshot.cn` (国际版域名后缀为.ai)  。  
 GLM4.5 在 `bigmodel.cn` (国际版为z.ai)  。  
-阶跃星辰 step3 在 `platform.stepfun.com`  。
+阶跃星辰 step3 在 `platform.stepfun.com`  。  
 ~~01万物 yi-lightning 在 platform.lingyiwanwu.com  。~~  
 
 ## 特别提示  
