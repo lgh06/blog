@@ -61,11 +61,12 @@ Open Router的连接性有时候也有问题。需要搭配合法跨境线路使
 参见我之前的博客文章。  
 
 ### 大厂及知名小厂的官方大模型API  
-豆包 在 火山云引擎 - 方舟 。  
-千问 在 阿里云 - 百炼 。  
-DeepSeek 在 platform.deepseek.com  。  
-Kimi K2 在 platform.moonshot.cn  。  
-GLM4.5 在 bigmodel.cn  。  
+豆包 在 `火山云引擎 - 方舟ark` 。  
+千问 在 `阿里云 - 百炼` 。  
+DeepSeek 在 `platform.deepseek.com`  。  
+Kimi K2 在 `platform.moonshot.cn` (国际版域名后缀为.ai)  。  
+GLM4.5 在 `bigmodel.cn` (国际版为z.ai)  。  
+阶跃星辰 step3 在 `platform.stepfun.com`  。
 ~~01万物 yi-lightning 在 platform.lingyiwanwu.com  。~~  
 
 ## 特别提示  
