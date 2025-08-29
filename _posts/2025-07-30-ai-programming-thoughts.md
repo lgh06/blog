@@ -38,9 +38,10 @@ https://lingma.aliyun.com/lingma
 配置到VSCode的Roo Code插件或者Cline插件上，轻量使用，够用。  
 可利用境外服务器中转。  
 
-### Gemini Code Assist  
+### Gemini Code Assist / Gemini Cli 
 https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist  
 https://developers.google.cn/gemini-code-assist/docs/overview?hl=zh-cn  
+https://github.com/google-gemini/gemini-cli  
 需要跨境网络支持。  
 
 ### Open Router  
