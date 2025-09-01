@@ -14,6 +14,7 @@ https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist
 https://developers.google.cn/gemini-code-assist/docs/overview?hl=zh-cn  
 https://github.com/google-gemini/gemini-cli  
 需要跨境网络支持。  
+数据可能会被拿走训练。  
 
 ### Trae 中国内地版  
 目前完全免费。  
