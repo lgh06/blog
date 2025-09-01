@@ -27,6 +27,9 @@ https://npmmirror.com/package/@qwen-code/qwen-code
 配合ModelScope，每天白嫖2000次API调用。  
 > 还可配合任意OpenAI兼容的接口。  
 
+qwen-code目前搜索能力较差。  
+Gemini与Trae自带搜索能力。  
+
 ```
 export OPENAI_API_KEY="your_api_key_here"
 export OPENAI_BASE_URL="https://api-inference.modelscope.cn/v1"
