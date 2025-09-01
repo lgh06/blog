@@ -7,11 +7,13 @@ categories: thoughts
 
 ## 可完全白嫖的工具  
 
-### Trae 国际版  
-手动切换到Gemini-2.5-Flash模型，每月1000次，免费。  
-不要使用别的模型，不够用。（有钱大佬请充10美元 每月）  
-Trae国际版在登录时会调用浏览器，同时验证访客IP所属国家。  
-可以使用澳门、香港的手机卡或者ESIM或者合法跨境线路，规避IP检测问题。  
+### Gemini Code Assist / Gemini Cli  
+编程助手的Agent模式与Cli共享每天1000次免费额度。  
+编程助手每天可问240次，自动完成6000次。  
+https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist  
+https://developers.google.cn/gemini-code-assist/docs/overview?hl=zh-cn  
+https://github.com/google-gemini/gemini-cli  
+需要跨境网络支持。  
 
 ### Trae 中国内地版  
 目前完全免费。  
@@ -29,6 +31,18 @@ export OPENAI_BASE_URL="https://api-inference.modelscope.cn/v1"
 export OPENAI_MODEL="Qwen/Qwen3-Coder-480B-A35B-Instruct"
 ```
 
+### Open Router  
+日常会滚动更新一些模型名字中带有 free 的模型。  
+充值10美元可提升请求频率，但10美元可能要在一年内花完。  
+
+Open Router的连接性有时候也有问题。需要搭配合法跨境线路使用，或者使用Caddy / Nginx等服务器端软件，中转一下。  
+
+### Trae 国际版  
+手动切换到Gemini-2.5-Flash模型，每月1000次，免费。  
+不要使用别的模型，不够用。（有钱大佬请充10美元 每月）  
+Trae国际版在登录时会调用浏览器，同时验证访客IP所属国家。  
+可以使用澳门、香港的手机卡或者ESIM或者合法跨境线路，规避IP检测问题。  
+
 ### 通义灵码  
 https://lingma.aliyun.com/lingma  
 目前完全免费，可以使用通义最新的模型，辅助编程。  
@@ -37,18 +51,6 @@ https://lingma.aliyun.com/lingma
 可获取API Key，（实际为关联Google Cloud账户），每天可完全免费使用Gemini 2.5 Flash模型数百次，Gemini 2.5 Pro模型数十次。  
 配置到VSCode的Roo Code插件或者Cline插件上，轻量使用，够用。  
 可利用境外服务器中转。  
-
-### Gemini Code Assist / Gemini Cli 
-https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist  
-https://developers.google.cn/gemini-code-assist/docs/overview?hl=zh-cn  
-https://github.com/google-gemini/gemini-cli  
-需要跨境网络支持。  
-
-### Open Router  
-日常会滚动更新一些模型名字中带有 free 的模型。  
-充值10美元可提升请求频率，但10美元可能要在一年内花完。  
-
-Open Router的连接性有时候也有问题。需要搭配合法跨境线路使用，或者使用Caddy / Nginx等服务器端软件，中转一下。  
 
 ## 需要充点钱的工具
 
