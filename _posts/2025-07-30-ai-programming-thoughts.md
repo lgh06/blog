@@ -42,6 +42,11 @@ export OPENAI_MODEL="Qwen/Qwen3-Coder-480B-A35B-Instruct"
 
 Open Router的连接性有时候也有问题。需要搭配合法跨境线路使用，或者使用Caddy / Nginx等服务器端软件，中转一下。  
 
+### Google AI Studio  
+可获取API Key，（实际为关联Google Cloud账户），每天可完全免费使用Gemini 2.5 Flash模型数百次，Gemini 2.5 Pro模型数十次。  
+配置到VSCode的Roo Code插件或者Cline插件上，轻量使用，够用。  
+可利用境外服务器中转。  
+
 ### Trae 国际版  
 手动切换到Gemini-2.5-Flash模型，每月1000次，免费。  
 不要使用别的模型，不够用。（有钱大佬请充10美元 每月）  
@@ -52,10 +57,6 @@ Trae国际版在登录时会调用浏览器，同时验证访客IP所属国家�
 https://lingma.aliyun.com/lingma  
 目前完全免费，可以使用通义最新的模型，辅助编程。  
 
-### Google AI Studio  
-可获取API Key，（实际为关联Google Cloud账户），每天可完全免费使用Gemini 2.5 Flash模型数百次，Gemini 2.5 Pro模型数十次。  
-配置到VSCode的Roo Code插件或者Cline插件上，轻量使用，够用。  
-可利用境外服务器中转。  
 
 ## 需要充点钱的工具
 
