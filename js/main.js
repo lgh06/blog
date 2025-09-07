@@ -270,6 +270,7 @@ jQuery(document).ready(function ($) {
 
     if(header){
       const langSwitchDiv = document.createElement('div');
+      langSwitchDiv.style.border = "1px dashed blue";
       
       let elementArr = [];
       Object.keys(langMapping).forEach(v =>{
