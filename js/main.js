@@ -189,7 +189,97 @@ jQuery(document).ready(function ($) {
     });
   }
   getFontList();
+
+  // translate.js
+  function translatejs() {
+    return new Promise(function(res,rej){
+      let s = document.createElement('script');
+      s.src = 'https://j.onlinetool.cc/gh/xnx3/translate@3.18.0/translate.js/translate.js';
+      s.async = true;
+      s.defer = true;
+      s.onload = function () {
+        try {
+          let translate = window.translate;
+          // 网页源语言
+          translate.language.setLocal('chinese_simplified');
+          // 只翻译中文 不翻译英语
+          translate.language.translateLanguagesRange = ['chinese_simplified'];
+          // 默认翻译为英语
+          translate.language.setDefaultTo('chinese_simplified');
+          // select框内支持的语言
+          // translate.selectLanguageTag.languages = 'chinese_simplified,english';
   
+          // 默认会显示切换语言的select框
+          translate.selectLanguageTag.show = false;
+          // 清除 上次设置的目标语言
+          translate.language.clearCacheLanguage();
+          // 只翻译指定元素
+          translate.setDocuments(Array.from(document.querySelectorAll(
+            'article.post'
+          )));
+  
+  
+          // 手动触发 切换为 某种语言
+          // setTimeout(()=>{
+          //   translate.changeLanguage('russian');
+          // }, 5*1000)
+  
+          translate.service.use('siliconflow'); //设置采用硅基流动的翻译通道
+          // translate.progress.api.startUITip();
+          console.log("before translate.listener.start")
+          translate.listener.start();
+          translate.execute(); //触发翻译
+          console.log("after translate.execute")
+          res();
+        } catch (error) {
+          rej();
+        }
+      }
+      document.body.appendChild(s);
+    });
+  }
+
+  async function execTranslate() {
+    // 从当前URL中获取参数lang
+    const urlParams = new URLSearchParams(window.location.search);
+    const langParam = urlParams.get('lang');
+    let mapping = {
+      en: "english",
+      zh_CN: "chinese_simplified",
+      zh_TW: "chinese_traditional",
+    }
+    if(mapping[langParam]){
+      try {
+        translate.changeLanguage(mapping[langParam]);
+        console.log("after translate.changeLanguage " + mapping[langParam])
+      } catch (error) {
+        
+      }
+    }
+  }
+  translatejs().then(()=>{
+    execTranslate();
+  });
+
+  async function addChangeLanguageLink() {
+    let header = document.querySelector("header.post-header")
+    if(header){
+      const langSwitchDiv = document.createElement('div');
+      const langSwitchLink1 = document.createElement('a');
+      langSwitchLink1.href = `?lang=en`;
+      langSwitchLink1.textContent = 'Translate To English';
+
+      const langSwitchLink2 = document.createElement('a');
+      langSwitchLink2.href = `?lang=zh_TW`;
+      langSwitchLink2.textContent = '切換為繁體中文';
+
+      langSwitchDiv.append(langSwitchLink1,document.createElement("br"),langSwitchLink2)
+
+
+      header.after(langSwitchDiv);
+    }
+  }
+  addChangeLanguageLink();
 
 
 });
