@@ -223,8 +223,15 @@ jQuery(document).ready(function ($) {
           // setTimeout(()=>{
           //   translate.changeLanguage('russian');
           // }, 5*1000)
-  
-          translate.service.use('siliconflow'); //设置采用硅基流动的翻译通道
+          // https://translate.zvo.cn/43086.html
+          let random = Math.random();
+          if(random<=0.3333){
+            translate.service.use('siliconflow'); //设置采用硅基流动的翻译通道
+          }else if(random <= 0.6666){
+            translate.service.use('client.edge');
+          }else{
+            translate.service.use('translate.service');
+          }
           translate.progress.api.startUITip();
           // console.log("before translate.listener.start")
           // translate.listener.start();
