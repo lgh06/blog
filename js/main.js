@@ -215,8 +215,7 @@ jQuery(document).ready(function ($) {
           translate.language.clearCacheLanguage();
           // 只翻译指定元素
           translate.setDocuments(Array.from(document.querySelectorAll(
-            'h1.post-title',
-            'div.post-content'
+            'h1.post-title, div.post-content'
           )));
           // 整体翻译
           translate.whole.class.push('post-content');
