@@ -219,6 +219,11 @@ jQuery(document).ready(function ($) {
           )));
           // 整体翻译
           translate.whole.class.push('post-content');
+          translate.whole.tag.push('h1');
+          translate.whole.tag.push('h2');
+          translate.whole.tag.push('p');
+          translate.whole.tag.push('code');
+          translate.whole.tag.push('li');
 
   
   
