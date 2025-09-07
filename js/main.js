@@ -284,7 +284,7 @@ jQuery(document).ready(function ($) {
           elementArr.push(br);
         }
       });
-
+      langSwitchDiv.append(elementArr)
       header.after(langSwitchDiv);
     }
   }
