@@ -270,8 +270,7 @@ jQuery(document).ready(function ($) {
 
     if(header){
       const langSwitchDiv = document.createElement('div');
-      const br = document.createElement("br");
-
+      
       let elementArr = [];
       Object.keys(langMapping).forEach(v =>{
         const langSwitchLink = document.createElement('a');
@@ -281,6 +280,7 @@ jQuery(document).ready(function ($) {
           // 当前页面已经是中文 当前页面已经是X文
         }else{
           elementArr.push(langSwitchLink);
+          const br = document.createElement("br");
           elementArr.push(br);
         }
       });
