@@ -201,11 +201,11 @@ jQuery(document).ready(function ($) {
         try {
           let translate = window.translate;
           // 网页源语言
-          translate.language.setLocal('chinese_simplified');
+          // translate.language.setLocal('chinese_simplified');
           // 只翻译中文 不翻译英语
-          translate.language.translateLanguagesRange = ['chinese_simplified'];
+          // translate.language.translateLanguagesRange = ['chinese_simplified'];
           // 默认翻译为英语
-          translate.language.setDefaultTo('chinese_simplified');
+          // translate.language.setDefaultTo('chinese_simplified');
           // select框内支持的语言
           // translate.selectLanguageTag.languages = 'chinese_simplified,english';
   
@@ -223,6 +223,7 @@ jQuery(document).ready(function ($) {
           // setTimeout(()=>{
           //   translate.changeLanguage('russian');
           // }, 5*1000)
+
           // https://translate.zvo.cn/43086.html
           let random = Math.random();
           let provider = 'client.edge';
