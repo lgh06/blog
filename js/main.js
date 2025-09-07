@@ -226,8 +226,8 @@ jQuery(document).ready(function ($) {
   
           translate.service.use('siliconflow'); //设置采用硅基流动的翻译通道
           // translate.progress.api.startUITip();
-          console.log("before translate.listener.start")
-          translate.listener.start();
+          // console.log("before translate.listener.start")
+          // translate.listener.start();
           translate.execute(); //触发翻译
           console.log("after translate.execute")
           res();
