@@ -225,13 +225,16 @@ jQuery(document).ready(function ($) {
           // }, 5*1000)
           // https://translate.zvo.cn/43086.html
           let random = Math.random();
+          let provider = 'client.edge';
           if(random<=0.3333){
-            translate.service.use('siliconflow'); //设置采用硅基流动的翻译通道
+            provider = 'siliconflow'; //设置采用硅基流动的翻译通道
           }else if(random <= 0.6666){
-            translate.service.use('client.edge');
+            provider = 'client.edge';
           }else{
-            translate.service.use('translate.service');
+            provider = 'translate.service';
           }
+          translate.service.use(provider);
+          console.log("use translate service provider ::" + provider);
           translate.progress.api.startUITip();
           // console.log("before translate.listener.start")
           // translate.listener.start();
