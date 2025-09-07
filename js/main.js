@@ -239,19 +239,19 @@ jQuery(document).ready(function ($) {
     });
   }
 
+  const langMapping = {
+    zh_CN: "chinese_simplified:回到 简体中文",
+    en: "english:Translate to English",
+    zh_TW: "chinese_traditional:切換為 繁體中文",
+  }
   async function execTranslate() {
     // 从当前URL中获取参数lang
     const urlParams = new URLSearchParams(window.location.search);
     const langParam = urlParams.get('lang');
-    let mapping = {
-      en: "english",
-      zh_CN: "chinese_simplified",
-      zh_TW: "chinese_traditional",
-    }
-    if(mapping[langParam]){
+    if(langMapping[langParam]){
       try {
-        translate.changeLanguage(mapping[langParam]);
-        console.log("after translate.changeLanguage " + mapping[langParam])
+        translate.changeLanguage(String(langMapping[langParam]).split(":").shift());
+        console.log("after translate.changeLanguage " + String(langMapping[langParam]).split(":").shift())
       } catch (error) {
         
       }
@@ -262,19 +262,28 @@ jQuery(document).ready(function ($) {
   });
 
   async function addChangeLanguageLink() {
-    let header = document.querySelector("header.post-header")
+    let header = document.querySelector("header.post-header");
+
+    // 从当前URL中获取参数lang
+    const urlParams = new URLSearchParams(window.location.search);
+    const langParam = urlParams.get('lang');
+
     if(header){
       const langSwitchDiv = document.createElement('div');
-      const langSwitchLink1 = document.createElement('a');
-      langSwitchLink1.href = `?lang=en`;
-      langSwitchLink1.textContent = 'Translate To English';
+      const br = document.createElement("br");
 
-      const langSwitchLink2 = document.createElement('a');
-      langSwitchLink2.href = `?lang=zh_TW`;
-      langSwitchLink2.textContent = '切換為繁體中文';
-
-      langSwitchDiv.append(langSwitchLink1,document.createElement("br"),langSwitchLink2)
-
+      let elementArr = [];
+      Object.keys(langMapping).forEach(v =>{
+        const langSwitchLink = document.createElement('a');
+        langSwitchLink.href = v === 'zh_CN' ? window.location.pathname : `?lang=${v}`;
+        langSwitchLink.textContent = String(langMapping[v]).split(":").pop();
+        if( (!langParam) && (v === 'zh_CN') || langParam === v ){
+          // 当前页面已经是中文 当前页面已经是X文
+        }else{
+          elementArr.push(langSwitchLink);
+          elementArr.push(br);
+        }
+      });
 
       header.after(langSwitchDiv);
     }
