@@ -227,7 +227,7 @@ jQuery(document).ready(function ($) {
           // https://translate.zvo.cn/43086.html
           let random = Math.random();
           let provider = 'translate.service';
-          if(random<=0.3333){
+          if(random<=0.6666){
             provider = 'siliconflow'; //设置采用硅基流动的翻译通道
           }else if(random <= 1){
             provider = 'translate.service';
