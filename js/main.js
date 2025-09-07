@@ -215,8 +215,12 @@ jQuery(document).ready(function ($) {
           translate.language.clearCacheLanguage();
           // 只翻译指定元素
           translate.setDocuments(Array.from(document.querySelectorAll(
-            'article.post'
+            'h1.post-title',
+            'div.post-content'
           )));
+          // 整体翻译
+          translate.whole.class.push('post-content');
+
   
   
           // 手动触发 切换为 某种语言
