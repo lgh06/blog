@@ -226,13 +226,13 @@ jQuery(document).ready(function ($) {
 
           // https://translate.zvo.cn/43086.html
           let random = Math.random();
-          let provider = 'client.edge';
+          let provider = 'translate.service';
           if(random<=0.3333){
             provider = 'siliconflow'; //设置采用硅基流动的翻译通道
-          }else if(random <= 0.6666){
-            provider = 'client.edge';
-          }else{
+          }else if(random <= 1){
             provider = 'translate.service';
+          }else{
+            provider = 'client.edge';
           }
           translate.service.use(provider);
           console.log("use translate service provider ::" + provider);
