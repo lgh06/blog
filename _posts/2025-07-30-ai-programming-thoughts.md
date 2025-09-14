@@ -36,6 +36,11 @@ export OPENAI_BASE_URL="https://api-inference.modelscope.cn/v1"
 export OPENAI_MODEL="Qwen/Qwen3-Coder-480B-A35B-Instruct"
 ```
 
+### CodeBuddy  
+by tencent  
+https://www.codebuddy.ai/  
+https://copilot.tencent.com/  
+
 ### Open Router  
 日常会滚动更新一些模型名字中带有 free 的模型。  
 充值10美元可提升请求频率，但10美元可能要在一年内花完。  
@@ -47,18 +52,22 @@ Open Router的连接性有时候也有问题。需要搭配合法跨境线路使
 配置到VSCode的Roo Code插件或者Cline插件上，轻量使用，够用。  
 可利用境外服务器中转。  
 
+### 通义灵码  
+https://lingma.aliyun.com/lingma  
+目前完全免费，可以使用通义最新的模型，辅助编程。  
+
+
+## 需要充点钱的工具  
+
 ### Trae 国际版  
 手动切换到Gemini-2.5-Flash模型，每月1000次，免费。  
 不要使用别的模型，不够用。（有钱大佬请充10美元 每月）  
 Trae国际版在登录时会调用浏览器，同时验证访客IP所属国家。  
 可以使用澳门、香港的手机卡或者ESIM或者合法跨境线路，规避IP检测问题。  
 
-### 通义灵码  
-https://lingma.aliyun.com/lingma  
-目前完全免费，可以使用通义最新的模型，辅助编程。  
-
-
-## 需要充点钱的工具
+### qoder  
+by alibaba ( maybe )  
+https://qoder.com  
 
 ### Github Copilot  
 十美元一月，日常编程完全够用。  
