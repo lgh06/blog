@@ -39,7 +39,11 @@ export OPENAI_MODEL="Qwen/Qwen3-Coder-480B-A35B-Instruct"
 ### CodeBuddy  
 by tencent  
 https://www.codebuddy.ai/  
+https://www.codebuddy.ai/ide  
+https://www.codebuddy.ai/cli  
 https://copilot.tencent.com/  
+https://copilot.tencent.com/ide  
+https://copilot.tencent.com/cli  
 
 ### Open Router  
 日常会滚动更新一些模型名字中带有 free 的模型。  
