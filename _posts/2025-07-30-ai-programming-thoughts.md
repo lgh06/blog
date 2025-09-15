@@ -46,6 +46,7 @@ https://www.codebuddy.ai/cli
 > 免费版每天50点 付费版每天100点加每月1000点  
 > 海外版ide已经开始收费 有搜索能力  
 > 能用claude/gpt/gemini三家的大模型  
+> 目前国内版只有deepseek 完全免费  
 
 
 <hr/>  
