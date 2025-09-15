@@ -17,11 +17,11 @@ https://github.com/google-gemini/gemini-cli
 香港、澳门、内地网络，不支持使用。  
 数据可能会被拿走训练。  
 
-### Trae 中国内地版  
+### 😊Trae 中国内地版  
 目前完全免费。  
 支持 豆包1.6、DeepSeek、Kimi K2、Qwen3 Coder等模型。  
 
-### qwen-code  
+### 😑qwen-code  
 https://npmmirror.com/package/@qwen-code/qwen-code  
 配合qwen.ai账号，OAuth登录。每天白嫖2000次API调用。  
 配合ModelScope，每天白嫖2000次API调用。  
@@ -71,14 +71,15 @@ Open Router的连接性有时候也有问题。需要搭配合法跨境线路使
 配置到VSCode的Roo Code插件或者Cline插件上，轻量使用，够用。  
 可利用境外服务器中转。  
 
-### 通义灵码  
-https://lingma.aliyun.com/lingma  
+### 😊通义灵码  
+https://lingma.aliyun.com/  
 目前完全免费，可以使用通义最新的模型，辅助编程。  
+已有ide。  
 
 
 ## 需要充点钱的工具  
 
-### 智谱
+### 😑智谱
 国际版/国内版都有编码套餐。  
 大约人民币40元/月、200元/月。首月五折优惠。  
 
