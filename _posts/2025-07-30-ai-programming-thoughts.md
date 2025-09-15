@@ -24,7 +24,7 @@ https://github.com/google-gemini/gemini-cli
 ### 😊qwen-code  
 https://npmmirror.com/package/@qwen-code/qwen-code  
 配合qwen.ai账号，OAuth登录。每天白嫖2000次API调用。  
-配合ModelScope，每天白嫖2000次API调用。  
+配合ModelScope，每天~~白嫖2000次API调用~~单模型<=500次每天。  
 > 还可配合任意OpenAI兼容的接口。  
 
 qwen-code目前搜索能力较差。  
@@ -36,9 +36,9 @@ export OPENAI_BASE_URL="https://api-inference.modelscope.cn/v1"
 export OPENAI_MODEL="Qwen/Qwen3-Coder-480B-A35B-Instruct"
 ```
 
-### 😊iflow & iflow-cli  
-https://platform.iflow.cn/  
-https://platform.iflow.cn/cli/quickstart  
+### 😑iflow & iflow-cli  
+https://platform.iflow.cn/  免费API接口  
+https://platform.iflow.cn/cli/quickstart 免费CLI  
 
 ### 😊Open Router  
 日常会滚动更新一些模型名字中带有 free 的模型。  
@@ -46,7 +46,7 @@ https://platform.iflow.cn/cli/quickstart
 
 Open Router的连接性有时候也有问题。需要搭配合法跨境线路使用，或者使用Caddy / Nginx等服务器端软件，中转一下。  
 
-### CodeBuddy  
+### 😑CodeBuddy  
 by tencent  
 
 https://www.codebuddy.ai/  
