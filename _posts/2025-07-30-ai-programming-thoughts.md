@@ -41,11 +41,12 @@ by tencent
 
 https://www.codebuddy.ai/  
 https://www.codebuddy.ai/ide  
+https://www.codebuddy.ai/cli  
+> ide与cli共用点数
 > 免费版每天50点 付费版每天100点加每月1000点  
 > 海外版ide已经开始收费 有搜索能力  
 > 能用claude/gpt/gemini三家的大模型  
 
-https://www.codebuddy.ai/cli  
 
 <hr/>  
 
