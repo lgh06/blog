@@ -36,7 +36,17 @@ export OPENAI_BASE_URL="https://api-inference.modelscope.cn/v1"
 export OPENAI_MODEL="Qwen/Qwen3-Coder-480B-A35B-Instruct"
 ```
 
-### 😑CodeBuddy  
+### 😊iflow & iflow-cli  
+https://platform.iflow.cn/  
+https://platform.iflow.cn/cli/quickstart  
+
+### 😊Open Router  
+日常会滚动更新一些模型名字中带有 free 的模型。  
+充值10美元可提升请求频率，但10美元可能要在一年内花完。  
+
+Open Router的连接性有时候也有问题。需要搭配合法跨境线路使用，或者使用Caddy / Nginx等服务器端软件，中转一下。  
+
+### CodeBuddy  
 by tencent  
 
 https://www.codebuddy.ai/  
@@ -61,12 +71,6 @@ https://copilot.tencent.com/
 https://copilot.tencent.com/ide  
 https://copilot.tencent.com/cli  
 
-### Open Router  
-日常会滚动更新一些模型名字中带有 free 的模型。  
-充值10美元可提升请求频率，但10美元可能要在一年内花完。  
-
-Open Router的连接性有时候也有问题。需要搭配合法跨境线路使用，或者使用Caddy / Nginx等服务器端软件，中转一下。  
-
 ### Google AI Studio  
 可获取API Key，（实际为关联Google Cloud账户），每天可完全免费使用Gemini 2.5 Flash模型数百次，Gemini 2.5 Pro模型数十次。  
 配置到VSCode的Roo Code插件或者Cline插件上，轻量使用，够用。  
@@ -76,10 +80,6 @@ Open Router的连接性有时候也有问题。需要搭配合法跨境线路使
 https://lingma.aliyun.com/  
 目前完全免费，可以使用通义最新的模型，辅助编程。  
 已有ide。  
-
-### iflow & iflow-cli  
-https://platform.iflow.cn/  
-https://platform.iflow.cn/cli/quickstart  
 
 ## 需要充点钱的工具  
 
