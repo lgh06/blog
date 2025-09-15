@@ -76,8 +76,9 @@ https://lingma.aliyun.com/
 目前完全免费，可以使用通义最新的模型，辅助编程。  
 已有ide。  
 
-### iflow  
+### iflow & iflow-cli  
 https://platform.iflow.cn/  
+https://platform.iflow.cn/cli/quickstart  
 
 ## 需要充点钱的工具  
 
