@@ -38,9 +38,23 @@ export OPENAI_MODEL="Qwen/Qwen3-Coder-480B-A35B-Instruct"
 
 ### CodeBuddy  
 by tencent  
+
 https://www.codebuddy.ai/  
 https://www.codebuddy.ai/ide  
+> 免费版每天50点 付费版每天100点加每月1000点  
+> 海外版ide已经开始收费 有搜索能力  
+> 能用claude/gpt/gemini三家的大模型  
+
 https://www.codebuddy.ai/cli  
+
+<hr/>  
+
+有Figma设计图转代码能力  
+有Supabase能力
+海外版只有ide与cli  
+国内版另有vscode/jetbrain插件  
+<hr/>  
+
 https://copilot.tencent.com/  
 https://copilot.tencent.com/ide  
 https://copilot.tencent.com/cli  
