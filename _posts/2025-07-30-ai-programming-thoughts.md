@@ -21,7 +21,7 @@ https://github.com/google-gemini/gemini-cli
 目前完全免费。  
 支持 豆包1.6、DeepSeek、Kimi K2、Qwen3 Coder等模型。  
 
-### 😑qwen-code  
+### 😊qwen-code  
 https://npmmirror.com/package/@qwen-code/qwen-code  
 配合qwen.ai账号，OAuth登录。每天白嫖2000次API调用。  
 配合ModelScope，每天白嫖2000次API调用。  
@@ -36,7 +36,7 @@ export OPENAI_BASE_URL="https://api-inference.modelscope.cn/v1"
 export OPENAI_MODEL="Qwen/Qwen3-Coder-480B-A35B-Instruct"
 ```
 
-### CodeBuddy  
+### 😑CodeBuddy  
 by tencent  
 
 https://www.codebuddy.ai/  
@@ -71,7 +71,7 @@ Open Router的连接性有时候也有问题。需要搭配合法跨境线路使
 配置到VSCode的Roo Code插件或者Cline插件上，轻量使用，够用。  
 可利用境外服务器中转。  
 
-### 😊通义灵码  
+### 通义灵码  
 https://lingma.aliyun.com/  
 目前完全免费，可以使用通义最新的模型，辅助编程。  
 已有ide。  
