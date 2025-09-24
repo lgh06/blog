@@ -19,7 +19,7 @@ https://github.com/google-gemini/gemini-cli
 
 ### 😊Trae 中国内地版  
 目前完全免费。  
-支持 豆包1.6、DeepSeek、Kimi K2、Qwen3 Coder等模型。  
+支持 豆包1.6、DeepSeek、Kimi K2、Qwen3 Coder、GLM4.5等模型。  
 
 ### 😊qwen-code  
 https://npmmirror.com/package/@qwen-code/qwen-code  
@@ -113,6 +113,7 @@ DeepSeek 在 `platform.deepseek.com`  。
 Kimi K2 在 `platform.moonshot.cn` (国际版域名后缀为.ai)  。  
 GLM4.5 在 `bigmodel.cn` (国际版为z.ai)  。  
 阶跃星辰 step3 在 `platform.stepfun.com`  。  
+海螺 MiniMax 在 `https://platform.minimaxi.com/`  .  
 ~~01万物 yi-lightning 在 platform.lingyiwanwu.com  。~~  
 
 ## 特别提示  
