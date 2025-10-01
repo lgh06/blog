@@ -129,3 +129,14 @@ https://akile.io  [算力云anygpu](https://www.suanlix.cn/)
 [lightnode](https://www.lightnode.com/)  
 海外服务器 厂商推荐。  
 
+
+
+
+20251001 update:
+> duckcoding.com  适合 claude 最便宜 分闲忙时 中午 12 点到晚上八点为忙时  jp.duckcoding.com **有缓存** 输入价格实际再降十倍  
+
+> api.ikuncode.cc 仅有 claude 稍微便宜 分闲忙时 中午 12 点到晚上八点为忙时  hk.ikuncode.cc  
+
+> shareyour.cc 适合 codex 白嫖，仅支持 OAuth 登陆。已注册 linux.do / g  **有缓存**  
+
+> foxcode.rjj.cc / code.newcli.com  充值网址  https://fk.hshwk.org/  claude / codex 同价  
