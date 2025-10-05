@@ -25,6 +25,13 @@ export ANTHROPIC_DEFAULT_HAIKU_MODEL="glm-4.5-air"
 export CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC="1"
 ```  
 
+编辑 ~/.claude/config.json  
+```json
+{
+  "primaryApiKey": "default"
+}
+```
+
 然后就可以在terminal或者powershell/cmd内执行`claude`了。  
 
 > [docs](https://docs.claude.com/en/docs/claude-code/overview)  
@@ -82,6 +89,13 @@ export CODEX_API_KEY_TUZI="sk-aaa"
 export CODEX_API_KEY_SHAREYOURCC="sk-user-bbb"
 export CODEX_API_KEY_DUCKCODING="sk-ccc"
 export CODEX_API_KEY_DEEPSEEK="sk-ddd"
+```
+
+编辑 ~/.codex/auth.json  
+```json
+{
+  "OPENAI_API_KEY": null
+}
 ```
 
 
