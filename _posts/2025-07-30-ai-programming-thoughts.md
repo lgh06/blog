@@ -133,10 +133,15 @@ https://akile.io  [算力云anygpu](https://www.suanlix.cn/)
 
 
 20251001 update:
-> duckcoding.com  适合 claude 最便宜 分闲忙时 中午 12 点到晚上八点为忙时  jp.duckcoding.com **有缓存** 输入价格实际再降十倍  
 
-> api.ikuncode.cc 仅有 claude 稍微便宜 分闲忙时 中午 12 点到晚上八点为忙时  hk.ikuncode.cc  
+# 小供应商
+`duckcoding.com`  分闲忙时 中午 12 点到晚上八点为忙时  jp.duckcoding.com **有缓存** 输入价格实际再降十倍  
 
-> shareyour.cc 适合 codex 白嫖，仅支持 OAuth 登陆。已注册 linux.do / g  **有缓存**  
+`pro.privnode.com` **有缓存** 按量计费 适合 codex  
 
-> foxcode.rjj.cc / code.newcli.com  充值网址  https://fk.hshwk.org/  claude / codex 同价  
+`shareyour.cc` 适合 codex 白嫖，仅支持 OAuth 登陆。   **有缓存**  
+
+`api.ikuncode.cc` 仅有 claude 稍微便宜 分闲忙时 中午 12 点到晚上八点为忙时  hk.ikuncode.cc  
+
+`foxcode.rjj.cc / code.newcli.com`  充值网址  [https://fk.hshwk.org/](https://fk.hshwk.org/)  
+
