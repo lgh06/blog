@@ -55,6 +55,17 @@ model = "deepseek-chat"
 # network_access = "enabled"
 disable_response_storage = true
 
+notify = [
+    "terminal-notifier",
+    "-title","Codex",
+    "-message","任务已完成✅",
+    "-sound","Glass",
+    "-group","Codex"
+]
+
+[features]
+web_search_request = true
+
 
 [model_providers.shareyourcc]
 name = "shareyourcc"
@@ -62,12 +73,6 @@ base_url = "https://api-us.shareyour.cc/v1"
 env_key = "CODEX_API_KEY_SHAREYOURCC"    
 wire_api = "responses"
 # requires_openai_auth = true
-
-[model_providers.tuzi]
-name = "tuzi"
-base_url = "https://api.tu-zi.com/v1"
-env_key = "CODEX_API_KEY_TUZI"    
-wire_api = "responses"
 
 [model_providers.duck]
 name = "duck"
@@ -85,7 +90,6 @@ wire_api = "chat"
 
 编辑 `~/.zshrc`:  
 ```sh
-export CODEX_API_KEY_TUZI="sk-aaa"
 export CODEX_API_KEY_SHAREYOURCC="sk-user-bbb"
 export CODEX_API_KEY_DUCKCODING="sk-ccc"
 export CODEX_API_KEY_DEEPSEEK="sk-ddd"
