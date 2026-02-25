@@ -17,6 +17,9 @@ claude code / codex cli / gemini cli
 ## opencode.ai  
 主推cli。支持模型较多，但据说token消耗较快。  
 
+## factory.ai droid  
+主推cli。可配置第三方模型。  
+
 ## 腾讯 CodeBuddy  
 国内版有IDE / 插件 / cli ， cli支持配置第三方API与key  
 目前在 cnb.cool 平台可免费使用。  
@@ -34,6 +37,9 @@ CLI，仅国内企业版的最高端套餐可用。199元每月每人。
 ## 阿里 通义灵码  
 仅有IDE和插件，无cli产品。  
 **企业版最低79元包月，随便用。**  
+
+## Cline / Roo Code / Kilo Code  
+VSCode插件。  可配置各种模型。  
 
 <hr color="red"> 分割线下方的产品不推荐
 
