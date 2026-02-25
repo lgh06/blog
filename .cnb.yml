@@ -10,3 +10,18 @@
           script: |
             git remote add gh https://lgh06:${GH_LGH06_REPO_BLOG_TOKEN}@github.com/lgh06/blog.git
             git push -u gh master
+$:
+  vscode:
+    - docker:
+        image: docker.cnb.cool/lgh06/cnb_images/cnb_cloud_dev:node24
+      runner:
+        cpus: 2
+      services:
+        - vscode
+        - docker
+      imports:
+        - https://cnb.cool/lgh06/daniel_tokens/-/blob/main/ai.yml
+      # 开发环境启动后会执行的任务
+      stages:
+        - name: ls
+          script: ls -al
