@@ -6,7 +6,7 @@ categories: tech ai
 ---
 
 ## 御三家  
-claude code / codex cli / gemini cli  
+😊claude code / 😊codex cli / gemini cli  
 以及VSCode插件  
 仅仅对自家模型配合较好，需要配合各种API大模型中转站使用
 
@@ -30,13 +30,13 @@ claude code / codex cli / gemini cli
 Trae首推IDE。  
 VSCode插件基本没人用。  
 CLI，仅国内企业版的最高端套餐可用。199元每月每人。  
-企业版最低49元包月，仅含豆包大模型，可自定义大模型和baseUrl  
+😊企业版最低49元包月，仅含豆包大模型，可自定义大模型和baseUrl  
 企业版99元，可用国内模型。  
 按量计费。  
 
 ## 阿里 通义灵码  
 仅有IDE和插件，无cli产品。  
-**企业版最低79元包月，随便用。**  
+😊**企业版最低79元包月，随便用。**  
 
 ## Cline / Roo Code / Kilo Code  
 VSCode插件。  可配置各种模型。  
