@@ -14,6 +14,13 @@ categories: tech ai
 开源，基于gemini cli  
 理论上可以配置各种模型的API接口和key。  
 
+## iflow cli  
+https://platform.iflow.cn/cli/quickstart  
+可以免费用国产模型，但并发为1，上下文也有缩水。  
+
+## ModelScope  
+可以免费用一定额度的国产模型API  
+
 ## opencode.ai  
 主推cli。支持模型较多，但据说token消耗较快。  
 
@@ -51,4 +58,12 @@ VSCode插件。  可配置各种模型。
 
 ## 百度 Comate 文心快码  
 有IDE和插件。无cli产品。
+
+
+# 其他工具  
+https://github.com/farion1231/cc-switch  
+https://github.com/router-for-me/CLIProxyAPI  
+https://relaypulse.top/  
+https://www.getcheapai.com/  
+https://aiping.cn/  
 
