@@ -18,8 +18,6 @@ categories: tech ai
 https://platform.iflow.cn/cli/quickstart  
 可以免费用国产模型，但并发为1，上下文也有缩水。  
 
-## ModelScope  
-可以免费用一定额度的国产模型API  
 
 ## opencode.ai  
 主推cli。支持模型较多，但据说token消耗较快。  
@@ -48,6 +46,9 @@ CLI，仅国内企业版的最高端套餐可用。199元每月每人。
 
 ## Cline / Roo Code / Kilo Code  
 VSCode插件。  可配置各种模型。  
+
+## ModelScope  
+可以免费用一定额度的国产模型API  
 
 <hr color="red"> 分割线下方的产品不推荐
 
