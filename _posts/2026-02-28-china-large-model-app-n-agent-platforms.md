@@ -9,8 +9,17 @@ categories: ai
 阿里云 百炼 应用开发 应用广场  
 https://bailian.console.aliyun.com/cn-beijing/?tab=app#/app-market/suggest  
 
+淘宝 万相营造  
+https://agi.taobao.com  
+
+其它平台  
+> https://d.design/  
+
 火山方舟 应用实验室  
 https://console.volcengine.com/ark/region:ark+cn-beijing/application  
+
+火山引擎 创作Agent  
+https://console.volcengine.com/kickart  
 
 扣子  
 https://www.coze.cn/overview  
@@ -44,3 +53,18 @@ https://www.doubao.com/chat/bot/discover
 
 豆包 应用生成 创作广场  
 https://www.doubao.com/code/launch
+
+
+## 其他 文生图 文生视频  
+即梦  
+可灵  
+Vidu  
+智谱  
+minimax 海螺  
+通义万象  
+美图设计室  
+whee.com  
+像素蛋糕  
+吐司TusiArt TensorArt tusi.cn  
+liblibai liblib.art  
+海艺 www.haiyi.art
