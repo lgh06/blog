@@ -57,6 +57,7 @@ https://www.doubao.com/code/launch
 
 ## 其他 文生图 文生视频  
 即梦  
+小云雀  
 可灵  
 Vidu  
 智谱  
