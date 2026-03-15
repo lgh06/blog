@@ -41,9 +41,10 @@ https://agent.minimaxi.com/
 https://open.bigmodel.cn/marketplace/index/agent  
 智谱 AI开放平台 智能体广场    
 https://bigmodel.cn/console/appcenter_v2/intelligent/center  
-
 智谱清言 智能体中心  
 https://chatglm.cn/main/toolsCenter?lang=zh  
+智谱  
+https://autoglm.zhipuai.cn/  
 
 kimi agent  
 https://www.kimi.com/agent  
