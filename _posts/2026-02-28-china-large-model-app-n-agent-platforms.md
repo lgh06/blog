@@ -5,6 +5,21 @@ date:   2026-02-28 15:35:02 +0800
 categories: ai
 ---
 
+
+以下是 20260506 更新  
+
+accio.com  
+wukong.dingtalk.com   钉钉悟空
+solo.trae.cn  Trae SOLO
+qclaw.qq.com  
+www.codebuddy.cn/work  
+jvsclaw.aliyun.com   
+yuanbao.tencent.com  腾讯元宝
+
+
+以下是20260228 updated  
+
+
 ## 云厂商  或 To B    
 阿里云 百炼 应用开发 应用广场  
 https://bailian.console.aliyun.com/cn-beijing/?tab=app#/app-market/suggest  
