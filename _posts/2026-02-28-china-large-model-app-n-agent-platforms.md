@@ -3,18 +3,30 @@ layout: post
 title: "国产大模型的应用与Agent平台汇总"
 date:   2026-02-28 15:35:02 +0800
 categories: ai
----
+---  
 
+
+20260507更新  
+
+WorkBuddy、Trae SOLO、豆包的超能模式、  
+~~智谱清言AgentMore~~、智谱AutoGLM、  
+MiniMax、~~Kimi~~  的网页版，也就是云端Agent能力，  
+特别强。  
+(划线的，比较贵 或 需要会员)  
+
+<hr>
 
 以下是 20260506 更新  
 
 accio.com  
-wukong.dingtalk.com   钉钉悟空
-solo.trae.cn  Trae SOLO
+wukong.dingtalk.com   钉钉悟空  
+solo.trae.cn  Trae SOLO  
 qclaw.qq.com  
-www.codebuddy.cn/work  
+www.codebuddy.cn/work   
 jvsclaw.aliyun.com   
-yuanbao.tencent.com  腾讯元宝
+yuanbao.tencent.com  腾讯元宝  
+
+<hr>
 
 
 以下是20260228 updated  
