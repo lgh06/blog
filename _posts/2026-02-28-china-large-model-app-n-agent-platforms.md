@@ -10,7 +10,7 @@ categories: ai
 
 WorkBuddy、Trae SOLO、豆包的超能模式、  
 ~~智谱清言AgentMore~~、智谱AutoGLM、  
-MiniMax、~~Kimi~~  的网页版，也就是云端Agent能力，  
+MiniMax、~~Kimi~~ 、 扣子coze.cn 的网页版，也就是云端Agent能力，  
 特别强。  
 (划线的，比较贵 或 需要会员)  
 
