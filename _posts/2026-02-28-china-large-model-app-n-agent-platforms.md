@@ -5,6 +5,12 @@ date:   2026-02-28 15:35:02 +0800
 categories: ai
 ---  
 
+20260513 更新  
+
+zcode.z.ai  本地  
+aionui.com  本地  
+https://github.com/OpenCoworkAI/open-cowork  本地  
+
 
 20260507更新  
 
